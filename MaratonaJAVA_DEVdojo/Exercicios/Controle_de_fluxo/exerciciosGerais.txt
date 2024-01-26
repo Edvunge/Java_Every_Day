@@ -1,0 +1,37 @@
+						Nível Intermediário:
+
+Verificação de Triângulo:
+	Peça os comprimentos dos lados de um triângulo e determine se é equilátero, isósceles ou escaleno.
+
+Média de Notas:
+	Solicite as notas de um aluno em três disciplinas e calcule sua média. Se a média for maior que 7, aprovado; caso contrário, reprovado.
+
+Jogo da Forca Simples:
+	Implemente um jogo da forca com uma palavra fixa. O usuário tem um número limitado de tentativas para adivinhar a palavra.
+
+
+
+						Nível Avançado:
+
+Validação de Senha:
+	Solicite ao usuário que crie uma senha. Valide se ela atende a requisitos mínimos, como comprimento mínimo, presença de letras maiúsculas, 	minúsculas e números.
+
+Simulador de Caixa Eletrônico:
+	Crie um programa que simula as operações de um caixa eletrônico, como saque, depósito e consulta de saldo.
+
+Adivinhação de Números:
+	Desenvolva um jogo em que o computador escolhe um número aleatório e o usuário tenta adivinhar. Forneça dicas se o palpite foi muito alto ou muito 	baixo.
+
+
+
+						Nível Super Avançado:
+
+Sistema de Reservas de Voo:
+	Crie um sistema de reservas de voo com diferentes opções de destinos, datas e classes. Considere a disponibilidade de assentos.
+
+Simulação de Mercado de Ações:
+	Desenvolva um programa que simula a compra e venda de ações em um mercado fictício. 
+	Os usuários podem negociar ações e acompanhar seus portfólios.
+
+Sistema de Autenticação Avançado:
+	Implemente um sistema de autenticação que utiliza autenticação de dois fatores, como senha e código enviado por mensagem.
