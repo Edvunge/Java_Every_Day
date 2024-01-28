@@ -1,6 +1,6 @@
 package geeksForGeeks_javaCourse;
 
-public class Operatores {
+public class Operators_first_part {
     public static void main(String[] args) {
         // Operadores Em Java
 
@@ -51,11 +51,6 @@ public class Operatores {
         System.out.println("f <<= 2: " +    (f <<= 2));
         System.out.println("f >>= 1: " +    (f >>= 1));
         System.out.println("f >>>= 1: " +  (f >>>= 1));
-
-
-
-
-
 
     }
 }
