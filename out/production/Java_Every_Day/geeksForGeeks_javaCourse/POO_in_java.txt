@@ -1,0 +1,119 @@
+**Classes em Java:**
+
+Em Java, uma classe é uma estrutura fundamental que serve como um modelo para criar objetos. Um objeto é uma instância de uma classe, e as classes fornecem um meio de organizar e estruturar o código em um programa. Elas encapsulam dados (atributos) e comportamentos (métodos) relacionados.
+
+A estrutura básica de uma classe em Java é a seguinte:
+
+```java
+public class MinhaClasse {
+    // Atributos (variáveis de instância)
+    tipoDeDado atributo1;
+    tipoDeDado atributo2;
+    
+    // Construtor
+    public MinhaClasse(tipoDeDado parametro1, tipoDeDado parametro2) {
+        // Inicialização dos atributos com os parâmetros fornecidos
+        this.atributo1 = parametro1;
+        this.atributo2 = parametro2;
+    }
+    
+    // Métodos
+    public void meuMetodo() {
+        // Lógica do método
+    }
+}
+```
+
+- **`public class MinhaClasse`:** Define uma classe chamada `MinhaClasse`. A palavra-chave `public` indica que a classe pode ser acessada por outras classes.
+
+- **Atributos (variáveis de instância):** São as características da classe, representadas por variáveis. Elas definem o estado do objeto. No exemplo, `atributo1` e `atributo2` são variáveis de instância.
+
+- **Construtor:** Um método especial chamado quando um objeto é criado. Inicializa os atributos da classe com os valores fornecidos ou padrão. No exemplo, o construtor recebe parâmetros `parametro1` e `parametro2` e inicializa os atributos correspondentes.
+
+- **`this`:** Referencia o objeto atual. É usado para distinguir entre os parâmetros do construtor e os atributos da classe quando têm o mesmo nome.
+
+- **Métodos:** Representam os comportamentos da classe. Eles contêm a lógica que manipula os dados da classe. No exemplo, `meuMetodo` é um método simples sem retorno (`void`), mas os métodos podem ter diferentes tipos de retorno e parâmetros.
+
+**Exemplo de Uso:**
+
+```java
+public class Exemplo {
+    public static void main(String[] args) {
+        // Criando um objeto da classe MinhaClasse
+        MinhaClasse meuObjeto = new MinhaClasse(valor1, valor2);
+
+        // Chamando o método da classe
+        meuObjeto.meuMetodo();
+    }
+}
+```
+
+Neste exemplo, `meuObjeto` é uma instância da classe `MinhaClasse`, e o método `meuMetodo` é chamado para realizar alguma ação específica.
+
+**Métodos em Java:**
+
+Os métodos são blocos de código que realizam tarefas específicas. Eles são definidos dentro de uma classe e podem ser chamados por objetos dessa classe. Os métodos podem ter parâmetros e um tipo de retorno.
+
+A estrutura básica de um método em Java é a seguinte:
+
+```java
+tipoDeRetorno meuMetodo(tipoParametro1 parametro1, tipoParametro2 parametro2) {
+    // Lógica do método
+
+    // Retorna um valor (se o método tiver um tipo de retorno)
+    return algumValor;
+}
+```
+
+- **`tipoDeRetorno`:** Indica o tipo de dado que o método retorna. Se não retornar nada, use `void`.
+
+- **`meuMetodo`:** Nome do método.
+
+- **Parâmetros:** Valores que podem ser passados para o método.
+
+- **Lógica do método:** Código que define o comportamento do método.
+
+- **`return algumValor`:** Se o método tiver um tipo de retorno diferente de `void`, você deve usar a palavra-chave `return` para devolver um valor do tipo especificado.
+
+**Exemplo:**
+
+```java
+public class Calculadora {
+    // Método de adição
+    public int somar(int a, int b) {
+        return a + b;
+    }
+
+    // Método de subtração
+    public int subtrair(int a, int b) {
+        return a - b;
+    }
+}
+```
+
+No exemplo acima, a classe `Calculadora` tem dois métodos, `somar` e `subtrair`, que realizam operações matemáticas e retornam os resultados. Esses métodos podem ser chamados por objetos da classe `Calculadora`. Exemplo de uso:
+
+```java
+public class ExemploCalculadora {
+    public static void main(String[] args) {
+        // Criando um objeto da classe Calculadora
+        Calculadora minhaCalculadora = new Calculadora();
+
+        // Chamando os métodos da classe
+        int resultadoSoma = minhaCalculadora.somar(5, 3);
+        int resultadoSubtracao = minhaCalculadora.subtrair(10, 4);
+
+        // Exibindo os resultados
+        System.out.println("Soma: " + resultadoSoma);
+        System.out.println("Subtração: " + resultadoSubtracao);
+    }
+}
+```
+
+Este é um exemplo simples de como as classes e métodos podem ser utilizados em Java para organizar e estruturar o código.
+
+
+
+
+
+
