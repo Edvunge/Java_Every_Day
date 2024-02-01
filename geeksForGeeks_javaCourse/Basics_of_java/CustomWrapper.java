@@ -1,6 +1,4 @@
-package geeksForGeeks_javaCourse;
-
-import java.io.*;
+package geeksForGeeks_javaCourse.Basics_of_java;
 
 // wrapper class
 class Maximum {

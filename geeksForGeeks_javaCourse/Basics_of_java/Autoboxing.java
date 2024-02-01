@@ -1,4 +1,4 @@
-package geeksForGeeks_javaCourse;
+package geeksForGeeks_javaCourse.Basics_of_java;
 
 import java.util.ArrayList;
 

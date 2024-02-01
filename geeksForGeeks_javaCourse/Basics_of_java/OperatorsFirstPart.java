@@ -1,6 +1,6 @@
-package geeksForGeeks_javaCourse;
+package geeksForGeeks_javaCourse.Basics_of_java;
 
-public class Operators_first_part {
+public class OperatorsFirstPart {
     public static void main(String[] args) {
         // Operadores Em Java
 

@@ -1,6 +1,6 @@
-package geeksForGeeks_javaCourse;
+package geeksForGeeks_javaCourse.Basics_of_java;
 
-public class Variables_First_Part {
+public class VariablesFirstPart {
     public static void main(String[] args) {
         int var = 10;
         System.out.println("Local Variable: " + var);

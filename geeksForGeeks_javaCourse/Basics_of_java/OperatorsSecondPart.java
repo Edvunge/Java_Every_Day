@@ -1,6 +1,6 @@
-package geeksForGeeks_javaCourse;
+package geeksForGeeks_javaCourse.Basics_of_java;
 
-public class Operators_second_part {
+public class OperatorsSecondPart {
     public static void main(String[] args) {
         // 4. Relational Operators
         // variable relation_operator value

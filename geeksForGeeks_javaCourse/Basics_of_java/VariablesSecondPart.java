@@ -1,11 +1,10 @@
-package geeksForGeeks_javaCourse;
-import java.io.*;
+package geeksForGeeks_javaCourse.Basics_of_java;
 
-public class Variables_Second_Part {
+public class VariablesSecondPart {
     public String geek;
     public int i;
     public Integer I;
-    public Variables_Second_Part(){
+    public VariablesSecondPart(){
         this.geek = "Edvaldo Vunge";
     }
 
@@ -13,11 +12,11 @@ public class Variables_Second_Part {
     public static String keeg = "farol gravth";
 
     public static void main(String[] args) {
-        Variables_Second_Part name = new Variables_Second_Part();
+        VariablesSecondPart name = new VariablesSecondPart();
 
         System.out.println("Geek name is: " + name.geek);
         System.out.println("Default value for Integer is " + name.i);
-        System.out.println("Geek Name is : " + Variables_Second_Part.keeg);
+        System.out.println("Geek Name is : " + VariablesSecondPart.keeg);
         System.out.println("Default value for Integer is " + name.I);
 
         /*
