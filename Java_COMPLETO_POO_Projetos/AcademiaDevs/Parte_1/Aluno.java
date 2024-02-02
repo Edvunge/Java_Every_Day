@@ -4,4 +4,5 @@ public class Aluno {
     String nome;
     int rg;
     String dataDeNascimntDosAluns;
+    Turma turma;
 }
