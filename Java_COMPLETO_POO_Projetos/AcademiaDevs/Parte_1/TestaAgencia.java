@@ -1,11 +1,11 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte1_classes_objects_and_attibutes;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1;
 
 public class TestaAgencia {
     public static void main(String[] args) {
-        Agencia a1 = new Agencia();
+        Agencia a1 = new Agencia(1234);
         a1.numero = 1234;
 
-        Agencia a2 = new Agencia();
+        Agencia a2 = new Agencia(5678);
         a2.numero = 5678;
 
         System.out.println("Dados da primeira agencia");

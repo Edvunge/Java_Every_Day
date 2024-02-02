@@ -1,4 +1,4 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte1_classes_objects_and_attibutes;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1;
 
 public class Turma {
     String periodo;

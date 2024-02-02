@@ -1,16 +1,17 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte1_classes_objects_and_attibutes;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1;
 
 public class TesteCartaoDeCredito {
     public static void main(String[] args) {
-        CartaoDeCredito cdc1 = new CartaoDeCredito();
+        CartaoDeCredito cdc1 = new CartaoDeCredito(11122);
+
         cdc1.numero = 111111;
         cdc1.dataDeValidade = "01/01/2023";
 
-        CartaoDeCredito cdc2 = new CartaoDeCredito();
+        CartaoDeCredito cdc2 = new CartaoDeCredito(72111);
         cdc2.numero = 22222;
         cdc2.dataDeValidade = "01/01/2024";
 
-        CartaoDeCredito cdc = new CartaoDeCredito();
+        CartaoDeCredito cdc = new CartaoDeCredito(545);
         Cliente c = new Cliente();
 
         // ligando os objetos
