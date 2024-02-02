@@ -1,4 +1,4 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1;
 
 public class TesteCartaoDeCredito {
     public static void main(String[] args) {
@@ -9,6 +9,12 @@ public class TesteCartaoDeCredito {
         CartaoDeCredito cdc2 = new CartaoDeCredito();
         cdc2.numero = 22222;
         cdc2.dataDeValidade = "01/01/2024";
+
+        CartaoDeCredito cdc = new CartaoDeCredito();
+        Cliente c = new Cliente();
+
+        // ligando os objetos
+        cdc.cliente.nome = "Rafael Cosentino";
 
         System.out.println("Dados do primeiro cartao");
         System.out.println("Numero: " + cdc1.numero);
