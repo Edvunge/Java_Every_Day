@@ -6,15 +6,6 @@ public class ExercTest {
 
 **Exercícios Básicos:**
 
-1. Crie uma classe `Retangulo` com atributos comprimento e largura. Adicione um método para calcular a área do retângulo.
-
-2. Crie uma classe `Pessoa` com atributos nome e idade. Adicione um método para exibir uma mensagem de saudação com o nome da pessoa.
-
-3. Crie uma classe `Círculo` com atributo raio. Adicione métodos para calcular a área e circunferência do círculo.
-
-4. Crie uma classe `Livro` com atributos título, autor e número de páginas. Adicione métodos para exibir as informações do livro.
-
-5. Crie uma classe `ContaBancaria` com atributos saldo e número da conta. Adicione métodos para depositar e sacar dinheiro.
 
 6. Crie uma classe `Carro` com atributos modelo, cor e ano. Adicione um método para exibir as informações do carro.
 
