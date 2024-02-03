@@ -1,0 +1,45 @@
+Exercícios Básicos:
+
+Crie uma classe Retangulo com atributos comprimento e largura. Adicione um método para calcular a área do retângulo.
+
+Crie uma classe Pessoa com atributos nome e idade. Adicione um método para exibir uma mensagem de saudação com o nome da pessoa.
+
+Crie uma classe Círculo com atributo raio. Adicione métodos para calcular a área e circunferência do círculo.
+
+Crie uma classe Livro com atributos título, autor e número de páginas. Adicione métodos para exibir as informações do livro.
+
+Crie uma classe ContaBancaria com atributos saldo e número da conta. Adicione métodos para depositar e sacar dinheiro.
+
+Crie uma classe Carro com atributos modelo, cor e ano. Adicione um método para exibir as informações do carro.
+
+Crie uma classe Triangulo com atributos base e altura. Adicione um método para calcular a área do triângulo.
+
+Crie uma classe Aluno com atributos nome, matrícula e nota. Adicione um método para verificar se o aluno foi aprovado (nota maior ou igual a 6).
+
+Crie uma classe Cachorro com atributos nome, raça e idade. Adicione um método para imprimir a idade do cachorro em anos humanos.
+
+Crie uma classe ContaCorrente com atributos titular, número da conta e saldo. Adicione um método para imprimir o extrato da conta.
+
+Exercícios Iniciantes:
+
+Crie uma classe Calculadora com métodos para adição, subtração, multiplicação e divisão.
+
+Crie uma classe Ponto com atributos x e y. Adicione um método para calcular a distância entre dois pontos.
+
+Crie uma classe Agenda que armazene contatos (nome e telefone). Adicione métodos para adicionar, remover e listar contatos.
+
+Crie uma classe Elevador com atributos capacidade, andar atual e total de andares. Adicione métodos para subir e descer de andar.
+
+Crie uma classe Produto com atributos nome, preço e quantidade em estoque. Adicione métodos para aumentar e diminuir a quantidade em estoque.
+
+Crie uma classe JogoDados que simule o lançamento de dois dados. Adicione um método para calcular a soma dos valores obtidos.
+
+Crie uma classe Banco que armazene contas bancárias. Adicione métodos para criar conta, realizar transferência e exibir saldo.
+
+Crie uma classe Data com atributos dia, mês e ano. Adicione um método para verificar se a data é válida.
+
+Crie uma classe NotasAluno que armazene notas de um aluno em diferentes disciplinas. Adicione métodos para calcular a média e verificar aprovação.
+
+Crie uma classe Cronômetro que simule um cronômetro simples. Adicione métodos para iniciar, parar e reiniciar o cronômetro.
+
+Lembre-se de praticar a implementação dessas classes e métodos para fortalecer o entendimento sobre o uso de classes em Java. Boa prática!
