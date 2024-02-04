@@ -4,22 +4,6 @@ public class ExercTest {
     public static void main(String[] args) {
         /*
 
-**Exercícios Básicos:**
-
-
-6. Crie uma classe `Carro` com atributos modelo, cor e ano. Adicione um método para exibir as informações do carro.
-
-7. Crie uma classe `Triangulo` com atributos base e altura. Adicione um método para calcular a área do triângulo.
-
-8. Crie uma classe `Aluno` com atributos nome, matrícula e nota. Adicione um método para verificar se o aluno foi aprovado (nota maior ou igual a 6).
-
-9. Crie uma classe `Cachorro` com atributos nome, raça e idade. Adicione um método para imprimir a idade do cachorro em anos humanos.
-
-10. Crie uma classe `ContaCorrente` com atributos titular, número da conta e saldo. Adicione um método para imprimir o extrato da conta.
-
-
-
-
 **Exercícios Iniciantes:**
 
 1. Crie uma classe `Calculadora` com métodos para adição, subtração, multiplicação e divisão.
