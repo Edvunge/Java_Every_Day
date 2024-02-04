@@ -6,7 +6,6 @@ public class ExercTest {
 
 **Exercícios Iniciantes:**
 
-1. Crie uma classe `Calculadora` com métodos para adição, subtração, multiplicação e divisão.
 
 2. Crie uma classe `Ponto` com atributos x e y. Adicione um método para calcular a distância entre dois pontos.
 
