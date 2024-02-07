@@ -1,0 +1,141 @@
+Classes:	
+	- pessoas
+		- nome
+		- idade
+		- cor
+		- altura
+		- raça
+		- nacionalidades
+		-  peso
+		- morada
+		-  
+	- arvores
+		- (tamanho)
+		- (cor)
+		- (altura)
+		- (peso)
+		- ser (vivo / inanimado)
+		- fruta ou nao
+	- alunos
+		- (nome)
+		- (idade)
+		- numero_de_aluno
+		- presenças
+		- notas
+		- ausencias
+		- material escolar
+		- vestuario
+		- recurso
+		- boletim de notas
+		- estatus: aprovado e reprovado
+		- lancheira
+		- (pessoas)
+		- (tamanho)
+		- (cor)
+		- (altura)
+		- (peso)
+		- ser (vivo / inanimado)
+	- funcionarios
+		- (nome)
+		- (idade)
+		- segurança
+		- emp. limpesa
+		-  (pessoas)
+		- professores
+		- (pessoas)
+		- (tamanho)
+		- (cor)
+		- (altura)
+		- (peso)
+		- ser (vivo / inanimado)	 
+		- administradores
+	- disciplinas
+		- (1 ou + prof.)
+		- status
+		- nome
+	- turmas
+	- salas de aulas
+		- lampadas
+		- tamanho
+		- projetor
+		- quadros
+			formato
+			cor
+			tamanho
+			tipo: marcador / giz
+	- caderneta
+		- nota
+		- (cor)
+		- disciplina
+		- (peso)
+		- presença
+		- propinas
+		- ser (inanimado)
+	- livraria
+		- (livros)
+		- computadores
+		- 
+	- laboratorios
+		- tubos
+		- microscopio
+		- cadeiras~
+		- balança
+		- tipo: (disciplina)
+		- tamanho
+		-  
+	- refeitorio
+		- (tamanho)
+		- cadeiras
+		- comida
+		- 
+	- wc
+		- sanita
+		- lavatorio
+		- mictorio
+		- 
+		-
+		-
+		-
+	- patio
+	- campo de desporto
+	- vestuario
+		- (tamanho)
+		- (cor)
+		- marca
+		- tipo: (saia / vestido / camisa)
+		- (peso)
+		- ser (vivo / inanimado)
+	- livro de ponto
+	- carteiras
+		- (tamanho)
+		- (cor)
+		- (altura)
+		- (peso)
+		- ser (inanimado)
+	- computadores
+		- marca
+		- modelo: (portatil / desktop)
+		- (tamanho)
+		- (cor)
+		- (peso)
+		- ser (inanimado)
+	- impressora
+		- (tamanho)
+		- (cor)
+		- (altura)
+		- (peso)
+		- ser (vivo / inanimado)
+	- cadeiras
+		- (tamanho)
+		- (cor)
+		- (altura)
+		- (peso)
+		- ser (vivo / inanimado)
+	- secretaria
+		- tv
+		- (tamanho)
+		- computador
+                                folha de prova 
+                                lapiz 
+                                caneta
+	
