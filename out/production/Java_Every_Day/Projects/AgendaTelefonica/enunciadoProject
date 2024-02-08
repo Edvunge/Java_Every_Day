@@ -1,0 +1,42 @@
+A01 – EXERCÍCIOS ADICIONAIS
+1. Agenda Telefônica
+Escrever um programa que cria uma agenda telefônica na qual
+seja possível acrescentar, excluir, visualizar e pesquisar os
+registros. O usuário deve ter a possibilidade de visualizar todos
+registros por ordem alfabética ou por ordem crescente de
+números de telefone. Na pesquisa por registros, o usuário deve
+ter a opção de pesquisar por nome ou por número de telefone. Na
+pesquisa pelo nome, o usuário deve ter uma opção em que possa
+selecionar se a pesquisa será efetuada com base no primeiro ou
+último nome.
+MENU PRINCIPAL
+1 – Adicionar registro na agenda telefônica
+2 – Excluir registro da agenda telefônica
+3 – Visualizar todos os registros
+a – ordem alfabética
+b – ordem numérica crescente de número de telefone
+4 – Pesquisa de registros
+a – por nome
+1 – pelo primeiro nome
+2 – pelo último nome
+b – por número de telefone
+5 – Sair
+
+
+Esse é um exemplo da aplicação rodando:
+Adicionar registro na agenda telefônica
+Digite o Nome:
+Digite o número do Telefone:
+(* Se o registro já existir, avise o operador da existência do
+registro)
+Visualizar todos os registros
+Mostra todos os registros em ordem alfabética
+Mostra todos os registros em ordem crescente de número de
+telefone
+Pesquisa registros
+Pesquisa agenda telefônica por nome
+Pesquisa agenda telefônica pelo primeiro nome
+Pesquisa agenda telefônica pelo último nome
+Pesquisa agenda telefônica por número do telefone
+Sair
+Fechar agenda telefônica
