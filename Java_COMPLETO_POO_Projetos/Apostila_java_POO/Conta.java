@@ -5,9 +5,10 @@ public class Conta {
     String titular;
     double saldo;
 
-    void saca(double quantidade) {
+    boolean saca(double quantidade) {
         double novoSaldo = this.saldo - quantidade;
         this.saldo = novoSaldo;
+        return false;
     }
 
     void deposita(double quantidade) {

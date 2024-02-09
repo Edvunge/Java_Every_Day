@@ -53,8 +53,8 @@ Classes:
 		- (1 ou + prof.)
 		- status
 		- nome
-	- turmas
-	- salas de aulas
+	- turmas*
+	- salas de aulas*
 		- lampadas
 		- tamanho
 		- projetor
