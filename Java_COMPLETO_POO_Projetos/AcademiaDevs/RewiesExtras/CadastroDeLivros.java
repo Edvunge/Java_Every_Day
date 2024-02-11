@@ -1,4 +1,4 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.RewiesMethod;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.RewiesExtras;
 
 public class CadastroDeLivros {
     public static void main(String[] args) {
