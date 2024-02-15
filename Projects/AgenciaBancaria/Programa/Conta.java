@@ -10,7 +10,7 @@ public class Conta {
     private Pessoa pessoa;
     private Double saldo = 0.0;
 
-    public Conta(int numeroConta, Pessoa pessoa, Double saldo) {
+    public Conta(Pessoa pessoa) {
         this.numeroConta = contadorDeContas;
         this.pessoa = pessoa;
         contadorDeContas += 1;
@@ -48,4 +48,34 @@ public class Conta {
                 "\nSaldo: " + Utils.doubleToString(this.getSaldo()) +
                 "\n";
     }
+
+    public void depositar(Double valor) {
+        if (valor > 0) {
+            setSaldo(getSaldo() + valor);
+            System.out.println("Seu deposito foi realizado com sucesso!");
+        } else {
+            System.out.println("Nao foi possivel realizar o deposito!");
+        }
+    }
+
+    public void sacar(Double valor) {
+        if (valor > 0 && this.getSaldo() >= valor) {
+            setSaldo(getSaldo() - valor);
+            System.out.println("Saque realizado com sucesso!");
+        } else {
+            System.out.println("Nao foi possivel realizar o saque!");
+        }
+    }
+
+    public void transferir(Conta contaParaDeposito, Double valor) {
+        if (valor > 0 && this.getSaldo() >= valor) {
+            setSaldo(getSaldo() - valor);
+
+            contaParaDeposito.saldo = contaParaDeposito.getSaldo() + valor;
+            System.out.println("Transferencia realizada com sucesso!");
+        } else {
+            System.out.println("Nao foi possivel realizar a transferencia!");
+        }
+    }
+
 }
