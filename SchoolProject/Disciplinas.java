@@ -1,6 +1,6 @@
 package SchoolProject;
 
-public class Disciplinas_cls {
+public class Disciplinas {
     boolean status;
     String nome;
     /*

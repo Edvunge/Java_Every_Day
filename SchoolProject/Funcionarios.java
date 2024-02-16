@@ -1,6 +1,6 @@
 package SchoolProject;
 
-public class Funcionarios_cls extends Pessoas_cls{
+public class Funcionarios extends Pessoas {
     String administradores;
     double tamanho;
     String professores;

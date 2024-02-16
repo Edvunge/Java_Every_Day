@@ -1,6 +1,6 @@
 package SchoolProject;
 
-public class Pessoas_cls {
+public class Pessoas {
     // <----- Atributos ----->
     String nome;
     int idade;

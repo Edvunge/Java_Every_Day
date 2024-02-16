@@ -1,6 +1,6 @@
 package SchoolProject;
 
-public class Caderneta_cls {
+public class Caderneta {
 
     /*
     - caderneta

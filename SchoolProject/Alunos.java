@@ -1,6 +1,6 @@
 package SchoolProject;
 
-public class Alunos_cls extends Pessoas_cls {
+public class Alunos extends Pessoas {
     int[] numero_de_aluno;
 	boolean	presenças;
     double notas;

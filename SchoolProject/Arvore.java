@@ -1,6 +1,6 @@
 package SchoolProject;
 
-public class Arvore_cls extends Pessoas_cls{
+public class Arvore extends Pessoas {
     String frutaOuNao;
     /*
     - arvores
