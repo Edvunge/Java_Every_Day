@@ -1,5 +1,7 @@
 package Projects.SimpleTetris.Main;
 
+import java.awt.*;
+
 public class PlayManager {
     // Main Play Area
     final int WIDTH = 360;
@@ -17,5 +19,21 @@ public class PlayManager {
         right_x = left_x + WIDTH;
         top_y = 50;
         bottom_y = top_y + HEIGHT;
+    }
+    public void update() {
+
+    }
+    public void draw(Graphics2D g2) {
+        // Draw Play Aea Frame
+        g2.setColor(Color.white);
+        g2.setStroke(new BasicStroke(4f));
+        g2.drawRect(left_x-4, top_y-4, WIDTH+0, HEIGHT+0);
+
+        // Draw Next Mino Frame
+        int x = right_x + 100;
+        int y = bottom_y - 200;
+        g2.drawRect(x, y, 200, 200);
+        g2.setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING, RenderingHints.VALUE_TEXT_ANTIALIAS_ON);
+        g2.drawString("NEXT", x+60, y+60);
     }
 }
