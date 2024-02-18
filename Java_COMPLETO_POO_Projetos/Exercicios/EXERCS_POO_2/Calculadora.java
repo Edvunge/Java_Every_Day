@@ -1,10 +1,8 @@
-package Java_COMPLETO_POO_Projetos.Exercicios;
-
-import jdk.swing.interop.SwingInterOpUtils;
+package Java_COMPLETO_POO_Projetos.Exercicios.EXERCS_POO_2;
 
 import java.util.Scanner;
 
-public class Calculadora_cls {
+public class Calculadora {
     /*
     1. Crie uma classe `Calculadora`
     com métodos para adição, subtração, multiplicação e divisão.
@@ -59,7 +57,7 @@ public class Calculadora_cls {
 
 
     public static void main(String[] args) {
-        Calculadora_cls calculadora = new Calculadora_cls();
+        Calculadora calculadora = new Calculadora();
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite o primeiro numero: ");

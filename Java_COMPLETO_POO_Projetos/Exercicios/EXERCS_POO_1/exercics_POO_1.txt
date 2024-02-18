@@ -1,0 +1,24 @@
+Exercícios Básicos:
+
+Crie uma classe Retangulo com atributos comprimento e largura. Adicione um método para calcular a área do retângulo.
+
+Crie uma classe Pessoa com atributos nome e idade. Adicione um método para exibir uma mensagem de saudação com o nome da pessoa.
+
+Crie uma classe Círculo com atributo raio. Adicione métodos para calcular a área e circunferência do círculo.
+
+Crie uma classe Livro com atributos título, autor e número de páginas. Adicione métodos para exibir as informações do livro.
+
+Crie uma classe ContaBancaria com atributos saldo e número da conta. Adicione métodos para depositar e sacar dinheiro.
+
+Crie uma classe Carro com atributos modelo, cor e ano. Adicione um método para exibir as informações do carro.
+
+Crie uma classe Triangulo com atributos base e altura. Adicione um método para calcular a área do triângulo.
+
+Crie uma classe Aluno com atributos nome, matrícula e nota. Adicione um método para verificar se o aluno foi aprovado (nota maior ou igual a 6).
+
+Crie uma classe Cachorro com atributos nome, raça e idade. Adicione um método para imprimir a idade do cachorro em anos humanos.
+
+Crie uma classe ContaCorrente com atributos titular, número da conta e saldo. Adicione um método para imprimir o extrato da conta.
+
+
+
