@@ -1,0 +1,3 @@
+Olá, Mundo!
+Este é um exemplo de escrita em arquivo em Java.Esta linha será adicionada ao arquivo existente.
+Esta linha será adicionada ao arquivo existente.
