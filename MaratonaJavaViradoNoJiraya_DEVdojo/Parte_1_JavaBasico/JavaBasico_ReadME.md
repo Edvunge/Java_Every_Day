@@ -40,6 +40,17 @@ Maratona Java 29 - Estruturas de Repetição pt 03 - Break <br>
 Maratona Java 30 - Estruturas de Repetição pt 04 - Exercício Break <br>
 Maratona Java 31 - Estruturas de Repetição pt 05 - Continue <br>
 
+
+- 7 videos, 20/ fev / 2024 - Terça Feira
+Maratona Java 32 - Arrays pt 01
+Maratona Java 33 - Arrays pt 02
+Maratona Java 34 - Arrays pt 03
+Maratona Java 35 - Arrays pt 04 - Foreach
+Maratona Java 36 - Arrays Multidimensionais pt 01
+Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
+Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
+
+
 ## Autores
 
 - [Edvaldo Vunge a.k.a - "Edvunge"](https://github.com/Edvunge)
