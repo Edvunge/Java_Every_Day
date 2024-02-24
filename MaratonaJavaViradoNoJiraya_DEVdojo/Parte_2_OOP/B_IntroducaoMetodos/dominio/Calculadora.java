@@ -1,4 +1,4 @@
-package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoMetodos.dominio;
+package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.B_IntroducaoMetodos.dominio;
 
 public class Calculadora {
 

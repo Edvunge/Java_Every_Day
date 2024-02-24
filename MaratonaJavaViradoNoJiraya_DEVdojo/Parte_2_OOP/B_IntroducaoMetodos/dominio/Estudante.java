@@ -1,4 +1,4 @@
-package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoClasses.dominio;
+package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.B_IntroducaoMetodos.dominio;
 
 public class Estudante {
     public String nome;

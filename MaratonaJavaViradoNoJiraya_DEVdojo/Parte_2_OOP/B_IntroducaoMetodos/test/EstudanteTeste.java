@@ -1,7 +1,7 @@
-package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoMetodos.test;
+package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.B_IntroducaoMetodos.test;
 
-import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoMetodos.dominio.Estudante;
-import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoMetodos.dominio.ImpressoraEstudante;
+import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.B_IntroducaoMetodos.dominio.Estudante;
+import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.B_IntroducaoMetodos.dominio.ImpressoraEstudante;
 
 public class EstudanteTeste {
     public static void main(String[] args) {

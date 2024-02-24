@@ -1,6 +1,6 @@
-package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoClasses.test;
+package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.A_IntroducaoClasses.test;
 
-import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoClasses.dominio.Professor;
+import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.A_IntroducaoClasses.dominio.Professor;
 
 public class ProfessorTeste01 {
     public static void main(String[] args) {

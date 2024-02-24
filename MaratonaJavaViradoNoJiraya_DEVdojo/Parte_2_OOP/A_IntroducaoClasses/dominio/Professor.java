@@ -1,4 +1,4 @@
-package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoClasses.dominio;
+package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.A_IntroducaoClasses.dominio;
 
 public class Professor {
     public String nome;

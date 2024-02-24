@@ -1,6 +1,6 @@
-package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoMetodos.test;
+package MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.B_IntroducaoMetodos.test;
 
-import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.IntroducaoMetodos.dominio.Calculadora;
+import MaratonaJavaViradoNoJiraya_DEVdojo.Parte_2_OOP.B_IntroducaoMetodos.dominio.Calculadora;
 
 public class CalculadoraTeste {
 
