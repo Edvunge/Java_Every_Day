@@ -1,6 +1,6 @@
-package Java_COMPLETO_POO_Projetos.Introd_POO_4.application;
+package Java_COMPLETO_POO_Projetos.Aprender_JavaPOO_Nelio.Parte_4_ClassesAtributosMetodos.application;
 
-import Java_COMPLETO_POO_Projetos.Introd_POO_4.enteties.Triangule;
+import Java_COMPLETO_POO_Projetos.Aprender_JavaPOO_Nelio.Parte_4_ClassesAtributosMetodos.enteties.Triangule;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -37,7 +37,6 @@ public class ResolvendoSemPOO {
         } else {
             System.out.println("larger area: " + areaY);
         }
-
         sc.close();
     }
 }

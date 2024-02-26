@@ -1,4 +1,4 @@
-package Java_COMPLETO_POO_Projetos.Introd_POO_4.sobrecarga;
+package Java_COMPLETO_POO_Projetos.Aprender_JavaPOO_Nelio.Parte_5_ConstrutoresSobrecargaEncapsulamento.sobrecarga;
 
 public class Expoente {
     // metodo que não calcula nada
