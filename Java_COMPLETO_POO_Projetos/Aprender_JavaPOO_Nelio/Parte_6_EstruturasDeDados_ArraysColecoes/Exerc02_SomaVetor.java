@@ -3,22 +3,43 @@ package Java_COMPLETO_POO_Projetos.Aprender_JavaPOO_Nelio.Parte_6_EstruturasDeDa
 import java.util.Scanner;
 
 public class Exerc02_SomaVetor {
-    // Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida:
-    //- Imprimir todos os elementos do vetor
-    //- Mostrar na tela a soma e a média dos elementos do vetor
+    //  Faça um programa que leia N números reais e armazene-os em um vetor.
+    //  Em seguida:
+    //  - Imprimir todos os elementos do vetor
+    //  - Mostrar na tela a soma e a média dos elementos do vetor
+
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
 
-        System.out.println("digite um numero: ");
-        double numN = input.nextDouble();
+        Scanner sc = new Scanner(System.in);
 
-        double[] num = new double[(int) numN];
+        int n;
+        double soma, media;
 
-        for (int j = 0; j < numN; j++) {
-            num[j] = j;
+        System.out.print("Quantos numeros voce vai digitar? ");
+        n = sc.nextInt();
+
+        double[] vetor = new double[n];
+
+        for (int i=0; i<n; i++) {
+            System.out.print("Digite um numero: ");
+            vetor[i] = sc.nextDouble();
         }
 
-        
-        input.close();
+        soma = 0;
+        for (int i=0; i<n; i++) {
+            soma = soma + vetor[i];
+        }
+
+        media = soma / n;
+
+        System.out.print("VALORES = ");
+
+        for (int i=0; i<n; i++) {
+            System.out.printf("%.1f  ", vetor[i]);
+        }
+
+        System.out.printf("\nSOMA = %.2f\n", soma);
+        System.out.printf("MEDIA = %.2f\n", media);
+        sc.close();
     }
 }
