@@ -1,7 +1,4 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca;
-
-import Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1.Cliente;
-import Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1.Funcionario;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca.OldClasses;
 
 public class Emprestimo extends Servico_cls {
     private double valor;

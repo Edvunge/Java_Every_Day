@@ -1,4 +1,4 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca.OldClasses;
 
 import Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1.Cliente;
 import Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_1.Funcionario;

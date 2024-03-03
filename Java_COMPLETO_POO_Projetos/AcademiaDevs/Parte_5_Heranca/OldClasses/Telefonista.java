@@ -1,4 +1,4 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca.OldClasses;
 
 public class Telefonista extends Funcionario_cls{
     private int estacaoDeTrabalho;

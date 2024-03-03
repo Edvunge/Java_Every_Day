@@ -1,4 +1,4 @@
-package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca;
+package Java_COMPLETO_POO_Projetos.AcademiaDevs.Parte_5_Heranca.OldClasses;
 
 public class Secretaria extends Funcionario_cls {
     private int ramal;
