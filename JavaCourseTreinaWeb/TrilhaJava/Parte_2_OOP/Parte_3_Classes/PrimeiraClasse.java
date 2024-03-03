@@ -1,4 +1,4 @@
-package JavaCourseTreinaWeb.TrilhaJava.Parte_2_OOP.Classes;
+package JavaCourseTreinaWeb.TrilhaJava.Parte_2_OOP.Parte_3_Classes;
 
 public class PrimeiraClasse {
 

@@ -1,6 +1,6 @@
 package JavaCourseTreinaWeb.TrilhaJava.Parte_2_OOP.main;
 
-import JavaCourseTreinaWeb.TrilhaJava.Parte_2_OOP.Classes.Veiculo;
+import JavaCourseTreinaWeb.TrilhaJava.Parte_2_OOP.Parte_3_Classes.Veiculo;
 
 public class VeiculoMain {
     public static void main(String[] args) {
