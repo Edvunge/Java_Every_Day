@@ -1,4 +1,4 @@
-package ZEDlistaDEexercicios.CadernoDeExercicios;
+package ZEDlistaDEexercicios.CadernoDeExercicios.B_EXERCiCIOS_LOGICA;
 
 public class Exerc10 {
     // 10. Faça um algoritmo que:

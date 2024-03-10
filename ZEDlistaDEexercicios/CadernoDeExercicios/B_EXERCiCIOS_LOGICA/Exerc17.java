@@ -1,4 +1,4 @@
-package ZEDlistaDEexercicios.CadernoDeExercicios;
+package ZEDlistaDEexercicios.CadernoDeExercicios.B_EXERCiCIOS_LOGICA;
 
 public class Exerc17 {
     //  16. Faça um algoritmo que leia dois valores para as variáveis A e B e efetue a troca

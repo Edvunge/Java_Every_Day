@@ -1,4 +1,4 @@
-package ZEDlistaDEexercicios.CadernoDeExercicios;
+package ZEDlistaDEexercicios.CadernoDeExercicios.B_EXERCiCIOS_LOGICA;
 
 import java.util.Scanner;
 
