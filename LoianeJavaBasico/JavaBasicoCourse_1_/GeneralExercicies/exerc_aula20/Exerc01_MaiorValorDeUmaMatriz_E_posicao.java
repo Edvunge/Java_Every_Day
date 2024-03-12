@@ -45,14 +45,6 @@ public class Exerc01_MaiorValorDeUmaMatriz_E_posicao {
             }
         }
 
-        /*
-        for (linha = 0; linha < LEN; linha++) {
-            for (coluna = 0; coluna < LEN; coluna++){
-                System.out.printf(" Escreva o numero da linha [%d] coluna [%d]:  ", linha ,coluna);
-                matA[linha][coluna] = input.nextInt();
-            }
-        }
-        */
 
         for (linha = 0; linha < LEN; linha++) {
             for (coluna = 0; coluna < LEN; coluna++) {
