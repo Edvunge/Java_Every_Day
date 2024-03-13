@@ -1,4 +1,4 @@
-package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_13_EnumeracoesComposicao.Exerc.enteties;
+package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_13_EnumeracoesComposicao.exerc01.enteties;
 
 public class Department {
     private String name;

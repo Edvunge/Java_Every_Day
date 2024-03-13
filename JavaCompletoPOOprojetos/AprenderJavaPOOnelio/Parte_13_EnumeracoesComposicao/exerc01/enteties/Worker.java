@@ -1,8 +1,7 @@
-package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_13_EnumeracoesComposicao.Exerc.enteties;
+package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_13_EnumeracoesComposicao.exerc01.enteties;
 
-import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_13_EnumeracoesComposicao.Exerc.entities.enums.WorkerLevel;
+import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_13_EnumeracoesComposicao.exerc01.entities.enums.WorkerLevel;
 
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
