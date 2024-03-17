@@ -1,4 +1,4 @@
-package JavaCompletoPOOprojetos.AcademiaDevs.Parte_8_Polimorfismo;
+package JavaCompletoPOOprojetos.AcademiaDevs.Parte_8_Polimorfismo.Parte_1_Polim;
 
 public class TestaFuncionarios {
     public static void main(String[] args) {
