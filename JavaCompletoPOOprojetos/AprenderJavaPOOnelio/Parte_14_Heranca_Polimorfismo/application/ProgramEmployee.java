@@ -1,0 +1,7 @@
+package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_14_Heranca_Polimorfismo.application;
+
+import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_14_Heranca_Polimorfismo.entities.Employee;
+
+public class ProgramEmployee {
+
+}
