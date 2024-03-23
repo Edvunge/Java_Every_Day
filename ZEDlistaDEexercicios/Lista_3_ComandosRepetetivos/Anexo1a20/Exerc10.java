@@ -1,4 +1,4 @@
-package ZEDlistaDEexercicios.Lista_3_ComandosRepetetivos.Anexo41a60;
+package ZEDlistaDEexercicios.Lista_3_ComandosRepetetivos.Anexo1a20;
 
 import java.util.Scanner;
 

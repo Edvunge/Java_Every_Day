@@ -1,4 +1,4 @@
-package ZEDlistaDEexercicios.Lista_3_ComandosRepetetivos.Anexo41a60;
+package ZEDlistaDEexercicios.Lista_3_ComandosRepetetivos.Anexo1a20;
 
 public class Exerc01 {
     // 1. Faca um programa que determine o mostre os cinco primeiros multiplos de 3,

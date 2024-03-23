@@ -1,4 +1,4 @@
-package ZEDlistaDEexercicios.Lista_3_ComandosRepetetivos.Anexo41a60;
+package ZEDlistaDEexercicios.Lista_3_ComandosRepetetivos.Anexo1a20;
 
 public class Exerc02 {
     // 2. Escreva um programa que escreva na tela, de 1 ate 100, de 1 em 1, 3 vezes.
