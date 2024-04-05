@@ -2,7 +2,7 @@ package SchoolProject;
 
 public class Alunos extends Pessoas {
     int[] numero_de_aluno;
-	boolean	presenças;
+	boolean	presencas;
     double notas;
     int  ausencias;
     //material escolar
