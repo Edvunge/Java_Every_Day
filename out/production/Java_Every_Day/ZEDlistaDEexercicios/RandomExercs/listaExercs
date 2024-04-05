@@ -4,7 +4,8 @@
 
 
 9) Receber do teclado uma mensagem e imprimir quantas letras A, E, I, O, U tem esta mensagem.
-Considerar minúscula e maiúscula. A função em portugol que acessa letra por letra de uma palavra é
+Considerar minúscula e maiúscula.
+A função em portugol que acessa letra por letra de uma palavra é
 strlem(variavel,x). (x é a posição da letra na frase)
 
 

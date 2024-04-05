@@ -22,5 +22,14 @@ public class WrapperTest02 {
 
         //int i = intW.longValue(); unbosing
         Integer intW2 = Integer.parseInt("1");
+        boolean verdadeiro = Boolean.parseBoolean("TruE");
+
+        System.out.println(Character.isDigit('A'));
+        System.out.println(Character.isDigit('9'));
+        System.out.println(Character.isLetterOrDigit('!'));
+        System.out.println(Character.isUpperCase('!'));
+        System.out.println(Character.isLowerCase('!'));
+        System.out.println(Character.toLowerCase('!'));
+        System.out.println(Character.toUpperCase('!'));
     }
 }
