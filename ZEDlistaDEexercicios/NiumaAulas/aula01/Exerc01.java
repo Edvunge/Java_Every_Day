@@ -4,6 +4,8 @@ package ZEDlistaDEexercicios.NiumaAulas.aula01;
 
 import java.util.Scanner;
 import static java.lang.System.exit;
+import static java.lang.System.setOut;
+
 import java.util.*;
 
 public class Exerc01 {
@@ -27,33 +29,85 @@ public class Exerc01 {
         Scanner input = new Scanner(System.in);
 
         int option = 3;
+        int soma, num1, num2;
+        int subt, mult, divi;
 
         do {
-            System.out.println("digite uma opcao: ");
+            System.out.println("\nDigite uma opcao: ");
             option = input.nextInt();
 
             switch (option) {
                 case 1:
-                    System.out.println("opcao 1");
+                    System.out.print("\ndigite o primeiro numero: ");
+                    num1 = input.nextInt();
+
+                    System.out.print("digite o segundo numero: ");
+                    num2 = input.nextInt();
+
+                    soma = num1 + num2;
+                    System.out.println(num1 + " + " + num2);
+                    System.out.println("a soma eh: " + soma);
                     break;
                 case 2:
-                    System.out.println("opcao 2");
+                    System.out.print("\ndigite o primeiro numero: ");
+                    num1 = input.nextInt();
+
+                    System.out.print("digite o segundo numero: ");
+                    num2 = input.nextInt();
+
+                    // -9x + 3 = 9 *(-1)
+
+                    if(num1 > num2)  {
+                        subt = num1 - num2;
+                        System.out.println(num1 + " - " + num2);
+                        System.out.println("a subtracao eh: " + subt);
+                    } else if (num2 > num1){
+                        subt = num2 - num1;
+                        System.out.println(num2 + " - " + num1);
+                        System.out.println("a subtracao eh: " + subt);
+                    } else {// 2 - 2
+                        subt = num2 - num1;
+                        System.out.println(num2 + " - " + num1);
+                        System.out.println("a subtracao eh: " + subt);
+                    }
                     break;
                 case 3:
-                    System.out.println("opcao 3");
+                    System.out.print("\ndigite o primeiro numero: ");
+                    num1 = input.nextInt();
+
+                    System.out.print("digite o segundo numero: ");
+                    num2 = input.nextInt();
+
+                    mult = num1 * num2;
+                    System.out.println(num1 + " * " + num2);
+                    System.out.println("a multiplicacao eh: " + mult);
                     break;
                 case 4:
-                    System.out.println("opcao 4");
+                    System.out.print("\ndigite o primeiro numero: ");
+                    num1 = input.nextInt();
+
+                    System.out.print("digite o segundo numero: ");
+                    num2 = input.nextInt();
+
+                    if (num2 == 0) {
+                        System.out.print("num2 nao pode ser = 0");
+                        System.out.println("digite o segundo numero novamente: ");
+                        num2 = input.nextInt();
+
+                        divi = num1 / num2;
+                        System.out.println(num1 + " / " + num2);
+                        System.out.println("a divi eh: " + divi);
+                    } else {
+                        divi = num1 / num2;
+                        System.out.println(num1 + " / " + num2);
+                        System.out.println("a divi eh: " + divi);
+                    }
                     break;
                 case 5:
                     System.out.println("opcao 5 - saida");
                     exit(0);
             }
         } while (option != 5);
-        /*
-        sempre que estamos diante de estruturas condicionas,
-        estamos diante de  
-        * */
         input.close();
     }
 }
