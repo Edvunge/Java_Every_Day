@@ -1,4 +1,4 @@
-package ExercsResolvidosDeAlgoritmos.Lista_2;
+package ExercsResolvidosDeAlgoritmos.Lista_2.part_1;
 
 import java.util.Scanner;
 
