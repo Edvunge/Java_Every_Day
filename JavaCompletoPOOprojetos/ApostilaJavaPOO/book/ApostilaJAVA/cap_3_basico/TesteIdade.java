@@ -1,4 +1,4 @@
-package JavaCompletoPOOprojetos.ApostilaJavaPOO.book.ApostilaJAVA.cap_3;
+package JavaCompletoPOOprojetos.ApostilaJavaPOO.book.ApostilaJAVA.cap_3_basico;
 
 public class TesteIdade {
     public static void main(String[] args) {
