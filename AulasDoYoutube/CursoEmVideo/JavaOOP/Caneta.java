@@ -7,19 +7,27 @@ public class Caneta {
     public int  carga;
     public boolean tampada;
 
+    void status(){
+        System.out.println("Uma caneta " + this.cor);
+        System.out.println("modelo "+ this.modelo);
+        System.out.println("carga: "+ this.carga);
+        System.out.println("ponta: "+ this.ponta);
+        System.out.println(" esta tampada. " + this.tampada);
+    }
 
     void rabiscar(){
-        if ( tampada == false) {
-            System.out.println("erro");
+        if ( this.tampada == true) {
+            System.out.println("erro! nao posso rabiscar");
         } else {
-            System.out.println("pode rabiscar.");
+            System.out.println("Estou rabiscando");
         }
     }
 
-    void escrever(){
+    void tampar(){
+        this.tampada = true;
     }
 
-    void pintar(){}
-
-    void tampar(){}
+    void destampar(){
+        this.tampada = false;
+    }
 }
