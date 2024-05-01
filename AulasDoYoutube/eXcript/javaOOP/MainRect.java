@@ -23,11 +23,5 @@ public class MainRect {
         System.out.println(quadrado.areaTotal());
         System.out.println(quadrado.isQuadrado());
 
-        Rectangulo quadrado2 = new Rectangulo();
-        quadrado.width = 100;
-        quadrado.height = 100;
-
-        System.out.println(quadrado2.areaTotal());
-        System.out.println(quadrado2.isQuadrado());
     }
 }
