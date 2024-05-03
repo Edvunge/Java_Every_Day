@@ -1,0 +1,35 @@
+Conversor de Unidades:
+Neste projeto, você pode criar um programa que permita ao usuário converter entre diferentes unidades de medida,
+como temperatura, comprimento, peso, etc. Por exemplo,
+você pode implementar métodos separados para converter Celsius para Fahrenheit,
+quilômetros para milhas, quilogramas para libras, etc.
+O usuário pode escolher qual tipo de conversão deseja realizar e fornecer os valores a serem convertidos.
+Você pode tornar o programa mais flexível permitindo que o usuário escolha entre diferentes tipos de conversão em um menu.
+
+
+// Para cada tipo de conversao será criado um metodo
+
+// 1.1 Criar um menu com duas opcoes de conversao:
+
+    1. conv. Moedas / 2. conv. Unidades
+
+// 1  Criar um Menu, com varias opcoes de escolhas:
+// Para converter de kwanza para euros  ( clique no botao: )
+// Para converter de euros para kwanzas ( clique no botao: )
+// Para converter de dolar para kwanzas ( clique no botao: )
+// Para converter de kwanza para dolar  ( clique no botao: )
+// Para converter de dolar para euros   ( clique no botao: )
+// Para converter de euro para dolar    ( clique no botao: )
+// Para converter de libra para euros   ( clique no botao: )
+// Para converter de euros para libra   ( clique no botao: )
+// Para converter de dolar para libra   ( clique no botao: )
+// Para converter de libra para dolar   ( clique no botao: )
+
+ // conv. Unidades
+// 2 Criar um Menu, com varias opçoes de escolhas.
+//                 Para converter de celsius para fahrenheit ( preciona: )
+//                 Para converter de fahrenheit para celsius ( preciona: )
+//                 Para converter de quilometros para milhas ( preciona: )
+//                 Para converter de quilometros para libras ( preciona: )
+//                 Para converter de libras para milhas      ( preciona: )
+//                 Para converter de milhas para libras      ( preciona: )
