@@ -18,27 +18,30 @@ public class appConverter {
         System.out.printf("Valor em Kwanzas: %.2f\n" , x);
         */
 
-        System.out.println("\t\t\t\t\t\t\t\t\t\t\t=================================================");
-        System.out.println("==============| GENERAL CONVERTER |==============");
-        System.out.println("=================================================");
-        System.out.println("########## ESCOLHA UMA OPCAO:             #######");
-        System.out.println("########## OPCAO 1: CONVERSOR DE MOEDAS   #######");
-        System.out.println("########## OPCAO 2: CONVERSOR DE UNIDADES #######");
-        System.out.println("=================================================");
-        System.out.println("=================================================");
-        int options = input.nextInt();
+        int options;
 
         do {
+
+            System.out.println("\t\t\t\t\t\t =================================================");
+            System.out.println("\t\t\t\t\t\t ==============| GENERAL CONVERTER |==============");
+            System.out.println("\t\t\t\t\t\t =================================================");
+            System.out.println("\t\t\t\t\t\t ########## ESCOLHA UMA OPCAO:             #######");
+            System.out.println("\t\t\t\t\t\t ########## OPCAO 1: CONVERSOR DE MOEDAS   #######");
+            System.out.println("\t\t\t\t\t\t ########## OPCAO 2: CONVERSOR DE UNIDADES #######");
+            System.out.println("\t\t\t\t\t\t =================================================");
+            System.out.println("\t\t\t\t\t\t =================================================");
+            options = input.nextInt();
+
             switch (options) {
-                case 1:
+                case 1: // OPCAO 1
                     System.out.println("opcao: 1");
                     break;
-                case 2:
+                case 2: // OPCAO 2
                     System.out.println("opcao: 2");
                     break;
                 default:
                     System.out.println("Opcao invalida: ");
             }
-        } while (options < 3);
+        } while (options > 2);
     }
 }
