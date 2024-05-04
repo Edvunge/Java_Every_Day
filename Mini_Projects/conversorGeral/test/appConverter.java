@@ -1,8 +1,6 @@
 package Mini_Projects.conversorGeral.test;
 
 import Mini_Projects.conversorGeral.dominio.ConversorDeMoedas;
-
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class appConverter {
@@ -18,7 +16,7 @@ public class appConverter {
         System.out.printf("Valor em Kwanzas: %.2f\n" , x);
         */
 
-        int options;
+        int options, optionsMoedas;
 
         do {
 
@@ -33,10 +31,63 @@ public class appConverter {
             options = input.nextInt();
 
             switch (options) {
-                case 1: // OPCAO 1
-                    System.out.println("opcao: 1");
+                case 1: // OPCAO 1 - conversor de moedas
+                    do {
+
+                        System.out.println("==================================================");
+                        System.out.println("============| CONVERSOR DE MOEDAS |===============");
+                        System.out.println("==================================================");
+                        System.out.println("########## ESCOLHA UMA OPCAO:      ###############");
+                        System.out.println("==================================================");
+                        System.out.println("## Converter de kwanza para euros  ( clique:  04 )");
+                        System.out.println("## Converter de euros para kwanzas ( clique:  05 )");
+                        System.out.println("## Converter de dolar para kwanzas ( clique:  06 )");
+                        System.out.println("## Converter de kwanza para dolar  ( clique:  07 )");
+                        System.out.println("## Converter de dolar para euros   ( clique:  08 )");
+                        System.out.println("## Converter de euro para dolar    ( clique:  09 )");
+                        System.out.println("## Converter de libra para euros   ( clique:  10 )");
+                        System.out.println("## Converter de euros para libra   ( clique:  11 )");
+                        System.out.println("## Converter de dolar para libra   ( clique:  12 )");
+                        System.out.println("## Converter de libra para dolar   ( clique:  13 )");
+                        System.out.println("==================================================");
+                        System.out.println("==================================================");
+                        optionsMoedas = input.nextInt();
+
+                        switch (optionsMoedas) {
+                            case 4:
+                                System.out.println("opcao 4");
+                                break;
+                            case 5:
+                                System.out.println("opcao 5");
+                                break;
+                            case 6:
+                                System.out.println("opcao 6");
+                                break;
+                            case 7:
+                                System.out.println("opcao 7");
+                                break;
+                            case 8:
+                                System.out.println("opcao 8");
+                                break;
+                            case 9:
+                                System.out.println("opcao 9");
+                                break;
+                            case 10:
+                                System.out.println("opcao 10");
+                                break;
+                            case 11:
+                                System.out.println("opcao 11");
+                                break;
+                            case 12:
+                                System.out.println("opcao 12");
+                                break;
+                            case 13:
+                                System.out.println("opcao 13");
+                                break;
+                        }
+                    } while (optionsMoedas > 14);
                     break;
-                case 2: // OPCAO 2
+                case 2: // OPCAO 2 - conversor de unidades
                     System.out.println("opcao: 2");
                     break;
                 default:
