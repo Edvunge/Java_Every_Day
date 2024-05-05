@@ -1,9 +1,9 @@
-package geeksForGeeks.JavaCourse.String;
+package geeksForGeeks.JavaCourse.Parte_5_String;
 
-public class Aa {
+public class A {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Hello ");
-        sb.insert(1, "java");
+        sb.append("java");
         System.out.println(sb);
     }
 }

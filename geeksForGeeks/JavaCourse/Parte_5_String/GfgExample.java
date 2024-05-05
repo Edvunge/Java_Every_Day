@@ -1,4 +1,4 @@
-package geeksForGeeks.JavaCourse.String;
+package geeksForGeeks.JavaCourse.Parte_5_String;
 
 public class GfgExample {
     public static void main(String[] args) {

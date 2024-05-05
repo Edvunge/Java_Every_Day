@@ -1,4 +1,4 @@
-package geeksForGeeks.JavaCourse.String;
+package geeksForGeeks.JavaCourse.Parte_5_String;
 
 public class StringStorage {
     public static void main(String[] args) {
