@@ -1,4 +1,4 @@
-package geeksForGeeks.JavaCourse.Parte_6_Array.GEneralGastos;
+package Mini_Projects.GEneralGastos;
 
 public class Gastos {
     // renda, telefMovel, luz, gas, agua, saldoTelef_A, comida, dividas,
@@ -12,14 +12,17 @@ public class Gastos {
     public double comida;
     public double dividas;
     public double telecom;
+    public double bilheteTransporte;
+    public double lazer;
 
-
-    public void totalGastos() {
+    public double totalGastos() {
         double total = this.renda + this.telefMovel +
         this.luz + this.gas + this.agua +
         this.saldoTelef_A + this.saldoTelef_B +
-        this.comida + this.dividas + this.telecom;
+        this.comida + this.dividas + this.telecom +
+                this.bilheteTransporte + this.lazer;
 
-        System.out.printf("\nO total gasto neste Mes foi de: %.2f" , total);
+        //System.out.printf("\nO total gasto neste Mes foi de: %.2f" , total);
+        return total;
     }
 }
