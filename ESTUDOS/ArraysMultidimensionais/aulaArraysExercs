@@ -1,0 +1,62 @@
+
+5. Criar um vetor A com 10 elementos inteiros. Construir um vetor B de
+mesmo tipo e tamanho, sendo que cada elemento do vetor B deverá
+ser o respectivo elemento de A multiplicado por sua posição (ou
+índice), ou seja:
+B[i] = A[i] * i.
+
+
+6. Criar dois vetores A e B cada um com 10 elementos inteiros. Construir
+um vetor C, onde cada elemento de C é a soma dos respectivos
+elementos em A e B, ou seja:
+C[i] = A[i] + B[i].
+
+
+7. Criar dois vetores A e B cada um com 10 elementos inteiros. Construir
+um vetor C, onde cada elemento de C é a subtração dos respectivos
+elementos em A e B, ou seja:
+C[i] = A[i] – B[i].
+
+
+8. Criar dois vetores A e B cada um com 10 elementos inteiros. Construir
+um vetor C, onde cada elemento de C é a multiplicação dos
+respectivos elementos em A e B, ou seja:
+C[i] = A[i] * B[i].
+
+
+
+
+5) Faça um programa em Java que leia um vetor de 15 posições de números inteiros e multiplique todos
+os elementos pelo maior valor do vetor. Mostre o vetor após os cálculos.
+
+
+6) Faça um programa em Java que receba o nome de cinco produtos e seus respectivos preços, 
+armazeneos em dois vetores separados, um para os produtos e outro para os preços. O programa deve calcular e
+mostrar:
+a) A quantidade de produtos com preço inferior a R$ 50,00;
+b) O nome dos produtos com preço entre R$ 50,00 e R$ 100,00;
+c) A média dos preços dos produtos com preço superior a R$ 100,00.
+
+
+7) Faça um programa em Java que receba o total das vendas de cada vendedor e armazene­as em um
+vetor. Receba também o percentual de comissão de cada vendedor e armazene­os em outro vetor.
+Receba os nomes desses vendedores e armazene­os em um terceiro vetor. Existem apenas dez
+vendedores. Calcule e mostre:
+a) Um relatório com os nomes dos vendedores e os valores a receber;
+b) O total das vendas de todos os vendedores;
+c) O maior valor a receber e quem o receberá;
+d) O menor valor a receber e quem o receberá.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
