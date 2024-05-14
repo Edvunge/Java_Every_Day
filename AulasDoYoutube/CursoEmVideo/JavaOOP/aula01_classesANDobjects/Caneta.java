@@ -1,4 +1,4 @@
-package AulasDoYoutube.CursoEmVideo.JavaOOP;
+package AulasDoYoutube.CursoEmVideo.JavaOOP.aula01_classesANDobjects;
 
 public class Caneta {
     public String modelo;
