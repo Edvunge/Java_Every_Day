@@ -38,9 +38,9 @@ b) O nome dos produtos com preço entre R$ 50,00 e R$ 100,00;
 c) A média dos preços dos produtos com preço superior a R$ 100,00.
 
 
-7) Faça um programa em Java que receba o total das vendas de cada vendedor e armazene­as em um
-vetor. Receba também o percentual de comissão de cada vendedor e armazene­os em outro vetor.
-Receba os nomes desses vendedores e armazene­os em um terceiro vetor. Existem apenas dez
+7) Faça um programa em Java que receba o total das vendas de cada vendedor e armazene-as em um
+vetor. Receba também o percentual de comissão de cada vendedor e armazene-os em outro vetor.
+Receba os nomes desses vendedores e armazene-os em um terceiro vetor. Existem apenas dez
 vendedores. Calcule e mostre:
 a) Um relatório com os nomes dos vendedores e os valores a receber;
 b) O total das vendas de todos os vendedores;
