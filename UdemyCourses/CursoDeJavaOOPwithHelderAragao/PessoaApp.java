@@ -8,6 +8,6 @@ public class PessoaApp {
         System.out.println(pessoa1.getNome() + " " + pessoa1.getCodigo());
 
         pessoa1.setNome("edvaldo");
-        System.out.println("o meu nome: " + pessoa1.getNome());
+        System.out.println("o meu nome: " + pessoa1.getNome() );
     }
 }
