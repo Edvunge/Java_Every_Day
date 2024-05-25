@@ -5,14 +5,14 @@ public class DataTeste {
         Data meuAniversario = new Data();
         meuAniversario.ano = 1995;
         meuAniversario.dia = 18;
-        meuAniversario.mes = "Junho";
+        meuAniversario.mes = 6;
 
         Data aniversarioBaby = new Data();
         aniversarioBaby.ano = 2001;
         aniversarioBaby.dia = 30;
-        aniversarioBaby.mes = "setembro";
+        aniversarioBaby.mes = 9;
 
-        System.out.printf("\no seu aniversario eh: %d / %s / %d", meuAniversario.dia ,meuAniversario.mes ,meuAniversario.ano);
-        System.out.printf("\no seu aniversario da baby: %d / %s / %d", aniversarioBaby.dia ,aniversarioBaby.mes ,aniversarioBaby.ano);
+        System.out.println("Edvaldo birthday " + meuAniversario.obterDataFormatada());
+        System.out.println("Juelcia birthday " + aniversarioBaby.obterDataFormatada());
     }
 }
