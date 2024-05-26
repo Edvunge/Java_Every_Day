@@ -7,10 +7,8 @@ public class DataTeste {
         meuAniversario.dia = 18;
         meuAniversario.mes = 6;
 
-        Data aniversarioBaby = new Data();
-        aniversarioBaby.ano = 2001;
-        aniversarioBaby.dia = 30;
-        aniversarioBaby.mes = 9;
+        Data aniversarioBaby = new Data(31, 12, 2020);
+
 
         System.out.println("Edvaldo birthday " + meuAniversario.obterDataFormatada());
         System.out.println("Juelcia birthday " + aniversarioBaby.obterDataFormatada());

@@ -6,6 +6,17 @@ public class Data {
     int mes;
     int ano;
 
+    // 1 1 1970
+    Data () {
+
+    }
+
+    Data (int day, int month, int year) {
+        dia = day;
+        mes = month;
+        ano = year;
+    }
+
     String obterDataFormatada() {
         return  String.format(" %d / %s / %d ", dia ,mes ,ano);
     }
