@@ -1,4 +1,4 @@
-package JavaCOMPLETO_DoZeroAoProfissional_Projts_leonardoLeitao.section05_classesMetodos.classe;
+package JavaCOMPLETO_DoZeroAoProfissional_Projts_leonardoLeitao.section05_classesMetodos.classe.desafio;
 
 public class Pessoa {
 
@@ -16,5 +16,9 @@ public class Pessoa {
         if (comida != null) {
             this.peso += comida.peso;
         }
+    }
+
+    String apresentar() {
+        return "Olá eu sou o " + nome + " e tenho " + peso + " Kgs.";
     }
 }
