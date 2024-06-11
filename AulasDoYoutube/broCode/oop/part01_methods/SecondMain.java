@@ -1,4 +1,4 @@
-package AulasDoYoutube.broCode.oop;
+package AulasDoYoutube.broCode.oop.part01_methods;
 
 public class SecondMain {
     public static void main(String[] args) {

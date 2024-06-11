@@ -1,4 +1,4 @@
-package AulasDoYoutube.broCode.oop;
+package AulasDoYoutube.broCode.oop.part04_finalKeyword;
 
 public class FinalKeyWord {
     public static void main(String[] args) {
