@@ -6,7 +6,6 @@ public class Tutorials {
         student.name = "Pedro";
         student.age = 13;
         student.rollno = 0;
-
         student.introduce();
     }
 }
