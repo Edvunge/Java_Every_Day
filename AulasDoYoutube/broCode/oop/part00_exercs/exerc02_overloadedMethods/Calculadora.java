@@ -10,8 +10,8 @@ public class Calculadora {
         System.out.println(" Soma " + soma);
     }
 
-    void somar(float num1, float num2, int num3, int num4, int num5) {
-        float soma = num1 + num2 + num3 + num4 + num5;
+    void somar(float num1, float num2, int num3, int num4) {
+        float soma = num1 + num2 + num3 + num4;
         System.out.println(" Soma " + soma);
     }
 }
