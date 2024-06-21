@@ -2,8 +2,8 @@ package books.JavaTheCompleteReferenceEleventhEdition_.part01TheJavaLanguage.cha
 
 public class BoxDemo2 {
     public static void main(String[] args) {
-        Box myBox1 = new Box();
-        Box myBox2 = new Box();
+        Box myBox1 = new Box(23, 43, 54);
+        Box myBox2 = new Box(12, 13, 14);
         double vol;
 
         // assing values to mybox1's instance variables

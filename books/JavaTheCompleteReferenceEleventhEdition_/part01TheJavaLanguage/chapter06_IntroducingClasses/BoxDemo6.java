@@ -1,14 +1,10 @@
 package books.JavaTheCompleteReferenceEleventhEdition_.part01TheJavaLanguage.chapter06_IntroducingClasses;
 
-public class BoxDemo5 {
+public class BoxDemo6 {
     public static void main(String[] args) {
-        Box myBox1 = new Box(21, 23, 32);
-        Box myBox2 = new Box(12, 11, 10);
+        Box myBox1 = new Box(2, 1, 3);
+        Box myBox2 = new Box(4, 5, 6);
         double vol;
-
-        // initialize each box
-        //myBox1.setDim(10, 20, 15);
-        //myBox2.setDim(3, 6, 9);
 
         // get volume of first box
         vol = myBox1.volume();

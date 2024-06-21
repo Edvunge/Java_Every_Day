@@ -2,7 +2,7 @@ package books.JavaTheCompleteReferenceEleventhEdition_.part01TheJavaLanguage.cha
 
 public class BoxDemo {
     public static void main(String[] args) {
-        Box mybox = new Box();
+        Box mybox = new Box(2, 2, 3);
         double vol;
 
         // assign values to mybox's instance variables

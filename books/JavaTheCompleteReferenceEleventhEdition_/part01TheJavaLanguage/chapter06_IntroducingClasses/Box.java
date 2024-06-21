@@ -5,17 +5,16 @@ public class Box {
     double height;
     double depth;
 
-    // display volume of a box
-    double volume() {
-        //System.out.println("Volume is ");
-        //System.out.println(width * height * depth);
-        return width * height * depth;
-    }
 
-    // sets dimensions of box
-    void setDim(double w, double h, double d) {
+    Box(double w, double h, double d) {
+        System.out.println("Constructing Box");
         width  = w;
         height = h;
         depth  = d;
+    }
+
+    // display volume of a box
+    double volume() {
+        return width * height * depth;
     }
 }

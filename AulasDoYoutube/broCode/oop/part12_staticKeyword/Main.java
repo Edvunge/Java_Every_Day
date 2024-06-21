@@ -6,6 +6,6 @@ public class Main {
         //Friend friend2 = new Friend("bob");
         //Friend friend3 = new Friend("Patrick");
 
-        System.out.println(Friend);
+        //System.out.println(Friend);
     }
 }
