@@ -2,6 +2,7 @@ package books.JavaTheCompleteReferenceEleventhEdition_.part01TheJavaLanguage.cha
 
 public class OverloadCons {
     public static void main(String[] args) {
-        // create
+        Box box = new Box(3);
+        box.volume();
     }
 }
