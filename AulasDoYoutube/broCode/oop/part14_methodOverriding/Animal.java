@@ -1,4 +1,4 @@
-package AulasDoYoutube.broCode.oop.part14_MethodOverriding;
+package AulasDoYoutube.broCode.oop.part14_methodOverriding;
 
 public class Animal {
 

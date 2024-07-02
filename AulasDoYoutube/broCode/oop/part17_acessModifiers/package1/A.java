@@ -1,6 +1,6 @@
-package AulasDoYoutube.broCode.oop.part17_AcessModifiers.package1;
+package AulasDoYoutube.broCode.oop.part17_acessModifiers.package1;
 
-import AulasDoYoutube.broCode.oop.part17_AcessModifiers.package2.C;
+import AulasDoYoutube.broCode.oop.part17_acessModifiers.package2.C;
 
 public class A {
     public static void main(String[] args) {

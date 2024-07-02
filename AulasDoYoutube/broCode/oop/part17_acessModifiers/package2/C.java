@@ -1,4 +1,4 @@
-package AulasDoYoutube.broCode.oop.part17_AcessModifiers.package2;
+package AulasDoYoutube.broCode.oop.part17_acessModifiers.package2;
 
 public class C {
     public String publicMessage = "This is public";

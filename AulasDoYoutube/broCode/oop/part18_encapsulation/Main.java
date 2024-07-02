@@ -1,4 +1,4 @@
-package AulasDoYoutube.broCode.oop.part18_Encapsulation;
+package AulasDoYoutube.broCode.oop.part18_encapsulation;
 
 public class Main {
     public static void main(String[] args) {

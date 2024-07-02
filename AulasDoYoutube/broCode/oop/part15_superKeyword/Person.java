@@ -1,4 +1,4 @@
-package AulasDoYoutube.broCode.oop.part15_SuperKeyword;
+package AulasDoYoutube.broCode.oop.part15_superKeyword;
 
 public class Person {
     String name;

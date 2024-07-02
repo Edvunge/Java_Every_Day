@@ -1,4 +1,4 @@
-package AulasDoYoutube.broCode.oop.part15_SuperKeyword;
+package AulasDoYoutube.broCode.oop.part15_superKeyword;
 
 public class Main {
     public static void main(String[] args) {
