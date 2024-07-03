@@ -1,5 +1,7 @@
 package AlgaworksBlack.ignicaoJava.part1_MergulhandoEmJava_e_OO.banco.modelo;
 
+import java.util.Objects;
+
 public class Conta {
     private Pessoa titular;
     private int agencia;
