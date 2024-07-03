@@ -1,4 +1,7 @@
-package AlgaworksBlack.ignicaoJava.part1_MergulhandoEmJava_e_OO.banco;
+package AlgaworksBlack.ignicaoJava.part1_MergulhandoEmJava_e_OO.banco.app;
+
+import AlgaworksBlack.ignicaoJava.part1_MergulhandoEmJava_e_OO.banco.modelo.Conta;
+import AlgaworksBlack.ignicaoJava.part1_MergulhandoEmJava_e_OO.banco.modelo.Pessoa;
 
 public class Principal {
     public static void main(String[] args) {

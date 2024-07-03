@@ -1,4 +1,4 @@
-package AlgaworksBlack.ignicaoJava.part1_MergulhandoEmJava_e_OO.banco;
+package AlgaworksBlack.ignicaoJava.part1_MergulhandoEmJava_e_OO.banco.modelo;
 
 public class Pessoa {
     private String nome;
