@@ -4,7 +4,7 @@ import java.io.File;
 
 public class Main {
     public static void main(String[] args) {
-        File file = new File("secret_message.txt");
+        File file = new File("C:/Documents/Java_Every_Day/AulasDoYoutube/broCode/oop/part23_fileClass/secret_message.txt");
 
         if (file.exists()) {
             System.out.println("That file exists! :o!");
