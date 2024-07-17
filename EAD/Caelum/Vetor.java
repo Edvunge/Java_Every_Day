@@ -10,18 +10,14 @@ public class Vetor {
         // Implementacao
     }
 
-    public void adiciona(int posicao, Aluno aluno) {
-        // implementacao
-    }
+  
 
     //public Aluno pega(int posicao) {
         // implementacao
     //}
 
 
-    public void remove(int posicao) {
-        // implementacao
-    }
+   
 
     //public boolean contem(Aluno aluno) {
         // implementacao
