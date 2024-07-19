@@ -12,8 +12,7 @@ public class TesteAdicionaPorPosicao {
 
         Vetor lista = new Vetor();
         lista.adiciona(a1);
-        lista.adiciona(0, a2);
-        lista.adiciona(1, a3);
+
 
         System.out.println(lista);
     }
