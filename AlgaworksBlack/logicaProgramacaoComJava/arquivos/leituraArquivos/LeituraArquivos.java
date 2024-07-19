@@ -9,7 +9,7 @@ import java.util.List;
 public class LeituraArquivos {
     public static void main(String[] args) throws IOException {
         Path arquivo = Paths.get("C:\\Users\\HP\\Documents\\edvaldo/meu-arquivo.txt");
-
+//
         List <String> linhas =  Files.readAllLines(arquivo);
 
         for (int i = 0; i < linhas.size(); i++) {
