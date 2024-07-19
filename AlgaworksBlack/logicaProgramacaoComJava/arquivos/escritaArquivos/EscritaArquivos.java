@@ -1,4 +1,4 @@
-package AlgaworksBlack.logicaProgramacaoComJava.escritaArquivos;
+package AlgaworksBlack.logicaProgramacaoComJava.arquivos.escritaArquivos;
 
 import java.io.IOException;
 import java.nio.file.Files;
