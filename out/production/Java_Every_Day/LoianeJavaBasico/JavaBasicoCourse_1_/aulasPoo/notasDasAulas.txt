@@ -1,0 +1,27 @@
+METODO SIMPLES
+sem retorno ou parametro
+
+METODO COM RETORNO
+com retorno ou parametro
+
+http://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-25-a-27
+
+Link do curso: http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/
+
+1. Escreva uma classe para representar uma lampada. Desenvolva métodos para ligar, desligar a lampada.
+
+2. Cria uma classe para representar uma conta corrente que possui um número, um saldo, 
+um status que informa se ela é especial ou não, um limite. 
+Desenvolva métodos para realizar saque (verificando se o cliente pode realizar saques), despositar dinheiro, 
+consultar saldo e verificar se o cliente está usando cheque especial ou não. Desenvolva um programa para testar essa classe.
+
+
+3. Escreva uma class para representar um Aluno. Adicione atributos relacionadas as caracteristicas de um Aluno, 
+como nome, matricula, curso que está matriculado, nome de 3 disciplinas que está cursando e as notas dessas 3 disciplinas. 
+Desenvolva um método para verificar se o aluno está aprovado (nota maior ou igual a 7] em uma determinada disciplina.
+Escreva um programa para testar essa classe, que pede as intormações do aluno ao usuário e ao final intorma o nome das disciplinas, 
+mostra as notas e mostra se o aluno loi aprovado ou não.
+
+
+4. Reescrevanesereic b daaua 20 （gu da Velhe）. Dusenvolva urne classe
+para representar o Jogo da Velha. Desenvalva uma classe para testar o
