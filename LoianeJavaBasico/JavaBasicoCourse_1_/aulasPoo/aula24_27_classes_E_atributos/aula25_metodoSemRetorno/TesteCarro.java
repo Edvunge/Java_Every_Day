@@ -1,4 +1,4 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.classes_E_atributos.aula26_metodoComRetorno;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula24_27_classes_E_atributos.aula25_metodoSemRetorno;
 
 public class TesteCarro {
     public static void main(String[] args) {
@@ -12,9 +12,5 @@ public class TesteCarro {
         System.out.println(van.modelo);
 
         van.exibirAutonomia();
-
-        double autonomia = van.obterAutonomia();
-        System.out.println("Autonomia do carro e: " + autonomia);
-        System.out.println("Autonomia do carro e: " + van.obterAutonomia());
     }
 }

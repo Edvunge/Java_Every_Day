@@ -1,4 +1,4 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.classes_E_atributos.aula27_metodosComParametros;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula24_27_classes_E_atributos.aula27_metodosComParametros;
 
 public class TesteCarro {
     public static void main(String[] args) {

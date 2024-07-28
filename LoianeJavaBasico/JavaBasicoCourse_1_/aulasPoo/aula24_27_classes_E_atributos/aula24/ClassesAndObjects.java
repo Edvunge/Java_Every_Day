@@ -1,4 +1,4 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.classes_E_atributos.aula24;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula24_27_classes_E_atributos.aula24;
 
 public class ClassesAndObjects {
     // variveis de instacia - atributos
