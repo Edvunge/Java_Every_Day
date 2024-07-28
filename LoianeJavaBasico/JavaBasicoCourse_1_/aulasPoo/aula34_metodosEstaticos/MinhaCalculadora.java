@@ -1,8 +1,8 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula33_overloading;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula34_metodosEstaticos;
 
 public class MinhaCalculadora {
 
-    public int soma(int num1, int num2) {
+    public static int soma(int num1, int num2) {
         return num1 + num2;
     }
 
