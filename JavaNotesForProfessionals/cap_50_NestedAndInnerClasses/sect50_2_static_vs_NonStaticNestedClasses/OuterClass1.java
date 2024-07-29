@@ -1,4 +1,4 @@
-package JavaNotesForProfessionals.cap_50_NestedAndInnerClasses.static_vs_NonStaticNestedClasses;
+package JavaNotesForProfessionals.cap_50_NestedAndInnerClasses.sect50_2_static_vs_NonStaticNestedClasses;
 
 public class OuterClass1 {
 

@@ -1,4 +1,4 @@
-package JavaNotesForProfessionals.cap_50_NestedAndInnerClasses.stackUsingNestedClass;
+package JavaNotesForProfessionals.cap_50_NestedAndInnerClasses.sect50_1_stackUsingNestedClass;
 
 public class IntStack {
 
