@@ -1,4 +1,4 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula37_heranca.aula_palavraChaveSuper;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula37_heranca.aula39_modifProtected;
 
 public class Professor extends Pessoa {
 

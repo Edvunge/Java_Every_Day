@@ -1,4 +1,4 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula37_heranca.aula_palavraChaveSuper;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula40_polimorfismo;
 
 public class Pessoa {
 
@@ -6,25 +6,6 @@ public class Pessoa {
     private String endereco;
     private String telefone;
     private String cpf;
-    private String telefoneCelular;
-
-
-    public Pessoa(String nome, String endereco, String telefone) {
-        this.nome = nome;
-        this.endereco = endereco;
-        this.telefone = telefone;
-    }
-
-    public Pessoa() {
-    }
-
-    public String getTelefoneCelular() {
-        return telefoneCelular;
-    }
-
-    public void setTelefoneCelular(String telefoneCelular) {
-        this.telefoneCelular = telefoneCelular;
-    }
 
     public String getNome() {
         return nome;
@@ -56,5 +37,10 @@ public class Pessoa {
 
     public void setCpf(String cpf) {
         this.cpf = cpf;
+    }
+
+    public String obterEtiquetaEndereco(){
+
+        return endereco;
     }
 }

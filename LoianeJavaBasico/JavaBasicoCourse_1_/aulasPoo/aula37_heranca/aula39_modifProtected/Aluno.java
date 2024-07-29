@@ -1,20 +1,19 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula37_heranca.aula_palavraChaveSuper;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula37_heranca.aula39_modifProtected;
 
 public class Aluno extends Pessoa {
 
     private String curso;
     private double[] notas;
 
+    public void verificarAcesso() {
+
+        this.nomeVisibilidade = "sesdfsdf";
+        super.nomeVisibilidade = "sefdfsdf";
+    }
+
     public Aluno() {
         super();
     }
-
-    public Aluno(String nome, String endereco, String telefone, String curso, double[] notas) {
-        super(nome, endereco, telefone);
-        this.curso = curso;
-        this.notas = notas;
-    }
-
     public String getCurso() {
         return curso;
     }
