@@ -15,6 +15,6 @@ public class Main {
         frame.setVisible(true); //make frame visible
         ImageIcon image = new ImageIcon("logo.png"); //create an ImageIcon
         frame.setIconImage(image.getImage()); //change icon of frame
-        frame.getContentPane().setBackground(new Color(0x123456)); //change color of background 
+        frame.getContentPane().setBackground(new Color(0x123456)); //change color of background
     }
 }
