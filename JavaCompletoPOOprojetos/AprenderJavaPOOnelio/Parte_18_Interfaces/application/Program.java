@@ -1,9 +1,5 @@
 package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_18_Interfaces.application;
 
-import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_18_Interfaces.model.entities.CarRental;
-import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_18_Interfaces.model.entities.Vehicle;
-import JavaNotesForProfessionals.cap_17_DaTeANDtime.DateTimeFormat;
-
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
