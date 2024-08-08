@@ -20,17 +20,6 @@ public class CalcPagamento {
         prest3_20 = valorTotal * 20 / 100;
         prest3_20 = valorTotal - prest3_20;
         System.out.println("3 prestacao(20%) sera de: " + prest3_20);
-
-        //valorTotal -
-        // Quanto sera a 1 prestacao ?
-        // Quanto sera a 2 prestacao ?
-        // Quanto sera a 3 prestacao ?
-
-
-        /*
-        salario = desconto * salario /  100
-
-        salario = salario - desconto;
-        */
+        
     }
 }
