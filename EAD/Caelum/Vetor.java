@@ -10,23 +10,6 @@ public class Vetor {
         // Implementacao
     }
 
-  
-
-    //public Aluno pega(int posicao) {
-        // implementacao
-    //}
-
-
-   
-
-    //public boolean contem(Aluno aluno) {
-        // implementacao
-    //}
-
-    //public int tamanho() {
-        // implementacao
-    //}
-
     public String toString() {
         return Arrays.toString(alunos);
     }
