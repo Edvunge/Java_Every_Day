@@ -5,6 +5,7 @@ public class Desktop {
     public boolean monitor;
     public String marca;
     public String formato;
+    public int numero;
 
     void ligar() {
         if (monitor == true) {
