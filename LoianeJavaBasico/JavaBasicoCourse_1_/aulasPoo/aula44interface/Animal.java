@@ -2,6 +2,7 @@ package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula44interface;
 
 public abstract class Animal {
     private String nome;
+    private String n;
 
     public abstract void emitirSom();
 
