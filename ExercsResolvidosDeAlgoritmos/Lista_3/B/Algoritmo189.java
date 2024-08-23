@@ -21,6 +21,5 @@ public class Algoritmo189 {
             c = 5 * (t - 32)/9;
             System.out.println("\ntemperatura em graus C&sius: "+ c);
         }
-        System.out.printf("\n");
     }
 }
