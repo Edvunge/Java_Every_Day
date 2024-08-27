@@ -7,7 +7,6 @@ public class TEST {
             for (int j = 0; j < 10; j++) {
                 if (i == 5 && j ==5) {
                     break outer;
-                    System.out.println("test");
                 }
             }
         }
