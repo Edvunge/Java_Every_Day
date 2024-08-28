@@ -7,7 +7,7 @@ public class RecTest {
         values = new int[i];
     }
 
-    // display array -- recursively
+    // display array - recursively
     void printArray(int i) {
         if (i == 0) return;
         else printArray(i-1);

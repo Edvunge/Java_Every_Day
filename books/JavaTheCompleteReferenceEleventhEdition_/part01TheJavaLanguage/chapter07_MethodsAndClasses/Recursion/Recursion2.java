@@ -2,11 +2,11 @@ package books.JavaTheCompleteReferenceEleventhEdition_.part01TheJavaLanguage.cha
 
 public class Recursion2 {
     public static void main(String[] args) {
-        RecTest ob = new RecTest(10);
-        int i;
+        RecTest observ = new RecTest(20);
+        int j;
 
-        for (i=0; i<10; i++) ob.values[i] = i;
+        for (j = 0; j < 20; j++) observ.values[j] = j;
 
-        ob.printArray(10);
+        observ.printArray(20);
     }
 }
