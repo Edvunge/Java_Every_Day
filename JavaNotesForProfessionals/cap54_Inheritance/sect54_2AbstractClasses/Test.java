@@ -7,5 +7,6 @@ public class Test {
 
         myButton.render(); // render a button
         myTextBox.render(); // render a text box
+        
     }
 }
