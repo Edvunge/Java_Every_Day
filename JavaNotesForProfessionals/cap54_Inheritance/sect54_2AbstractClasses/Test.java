@@ -5,8 +5,7 @@ public class Test {
         Component myButton = new Button();
         Component myTextBox = new TexBox();
 
-        myButton.render(); // render a button
-        myTextBox.render(); // render a text box
-        
+        myButton.render();  // render a button
+        myTextBox.render();  // render a text box
     }
 }
