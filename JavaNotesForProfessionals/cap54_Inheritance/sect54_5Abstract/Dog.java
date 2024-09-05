@@ -14,6 +14,6 @@ public class Dog extends Animal implements Learn {
     }
 
     public void learn() {
-        System.out.println(this.getClass().getSimpleName() + "cccccccc can learn:");
+        System.out.println(this.getClass().getSimpleName() + "can learn:");
     }
 }
