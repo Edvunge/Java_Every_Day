@@ -4,6 +4,7 @@ public class Cat extends Animal implements Climb {
     public Cat(String name, int age) {
         super(name, age);
     }
+
     public void remember() {
         System.out.println(this.getClass().getSimpleName() + " can remember for 16 hours");
     }
@@ -12,12 +13,8 @@ public class Cat extends Animal implements Climb {
         System.out.println(this.getClass().getSimpleName() + " won't protect owner");
     }
 
-    public void learn() {
-        System.out.println(this.getClass().getSimpleName() + " can climb:");
-    }
-
     @Override
     public void climb() {
-
+        System.out.println(this.getClass().getSimpleName() + " can climb");
     }
 }
