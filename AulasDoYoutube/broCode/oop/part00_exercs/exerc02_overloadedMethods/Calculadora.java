@@ -6,7 +6,7 @@ public class Calculadora {
     dois números de ponto flutuante e três números inteiros. Teste todos os métodos no `main`.
     */
     void somar(int num1, int num2) {
-        int soma = num1 + num2;
+        int soma = num1 + num2 + 78;
         System.out.println(" Soma " + soma);
     }
 
