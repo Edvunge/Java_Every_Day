@@ -10,8 +10,8 @@ public class AppTest {
         /*
 
         quero que o programa peca uma senha e que verifique
-        caso essa senha seje igual a um determinado pin,  
-
+        caso essa senha seje igual a um determinado pin,
+       
 
         */
         //do {
