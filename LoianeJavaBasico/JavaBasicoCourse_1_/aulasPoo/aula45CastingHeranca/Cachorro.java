@@ -1,4 +1,7 @@
-package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula44interface;
+package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula45CastingHeranca;
+
+import LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula44interface.AnimalDomesticado;
+import LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula44interface.AnimalEstimacao;
 
 public class Cachorro extends Mamifero implements AnimalDomesticado, AnimalEstimacao {
 

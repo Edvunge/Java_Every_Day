@@ -1,6 +1,6 @@
 package LoianeJavaBasico.JavaBasicoCourse_1_.aulasPoo.aula44interface;
 
-public class Gato extends Mamifero {
+public class Gato extends Mamifero implements AnimalDomesticado, AnimalEstimacao {
 
     public String raca;
 
@@ -20,6 +20,26 @@ public class Gato extends Mamifero {
 
     @Override
     public void emitirSom() {
+
+    }
+
+    @Override
+    public void levarVeterinario() {
+
+    }
+
+    @Override
+    public void alimentar() {
+
+    }
+
+    @Override
+    public void brincar() {
+
+    }
+
+    @Override
+    public void levarPassear() {
 
     }
 }
