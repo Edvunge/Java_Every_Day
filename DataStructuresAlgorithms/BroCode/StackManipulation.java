@@ -17,8 +17,7 @@ public class StackManipulation {
         stack.push("Skyrim");
         stack.push("DOOM");
         stack.push("Borderlands");
-        stack.push("FFVII");
-
+        
         //stack.pop();
         //stack.pop();
 
