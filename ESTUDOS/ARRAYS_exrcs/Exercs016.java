@@ -14,7 +14,7 @@ public class Exercs016 {
     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        final int LENM = 10;
+        final int LENM = 1021;
         int[] numbers = new int[LENM];
         int numersIguaisA30 = 0, sum = 0, numerosMaioresQueAmedia = 0;
         int numersIguaisAmedia = 0;
