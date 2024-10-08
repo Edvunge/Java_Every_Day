@@ -6,8 +6,6 @@ public class OverloadMethodsApp {
         //                      method name + parameters = method signature
 
         int x = add(1, 2);
-        //x = add(1, 2, 3);
-        //x = add(1, 2, 5, 6);
 
         System.out.println(x);
     }
