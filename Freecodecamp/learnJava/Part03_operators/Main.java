@@ -9,6 +9,5 @@ public class Main {
         --turns;
 
         System.out.println(score);
-        System.out.println(turns);
     }
 }
