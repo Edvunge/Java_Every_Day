@@ -5,6 +5,22 @@ public class Account {
     private String name, email;
     private float amount;
 
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public float getAmount() {
+        return amount;
+    }
+
     public long getAcc_no() {
         return acc_no;
     }
@@ -28,9 +44,9 @@ public class Account {
     public static void main(String[] args) {
         Account acc = new Account();
         acc.setAcc_no(1340282876);
-        //setname acc.setName("Ravi");
-        //getname acc.setEmail("Ravi@gmail.com")
+        acc.setName("Ravi");
+        acc.setEmail("Ravi@gmail.com");
         acc.setAmount(25000f);
-        System.out.println(acc.getAcc_no()+" "+acc.getName()+" "+acc.getEmail()" "+acc.getAmout());
+        System.out.println(acc.getAcc_no()+" "+acc.getName()+" "+acc.getEmail()+" "+acc.getAmout());
     }
 }
