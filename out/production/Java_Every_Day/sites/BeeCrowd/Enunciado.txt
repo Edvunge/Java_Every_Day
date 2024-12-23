@@ -1,0 +1,253 @@
+Nome		Favorito	                    Resolvidos	Nível
+
+1000	    Hello World!		            Favorite	362.440	5               FEITO
+1001		Extremamente Básico		        Favorite	583.716	4               FEITO
+1002		Área do Círculo		            Favorite	429.160	4               FEITO
+1003		Soma Simples		            Favorite	413.442	1
+1004		Produto Simples		            Favorite	389.428	1
+1005		Média 1		                    Favorite	349.964	2
+1006		Média 2		                    Favorite	319.157	1
+1007		Diferença		                Favorite	334.093	1
+1008		Salário		                    Favorite	311.949	2
+1009		Salário com Bônus		        Favorite	282.526	2
+1010		Cálculo Simples		            Favorite	259.523	3
+1011		Esfera		                    Favorite	245.547	2
+1012		Área		                    Favorite	227.798	2
+1013		O Maior		                    Favorite	221.813	3
+1014		Consumo		                    Favorite	231.590	1
+1015		Distância Entre Dois Pontos		Favorite	229.937	1
+1016		Distância		                Favorite	200.418	1
+1017		Gasto de Combustível		    Favorite	207.106	1
+1018		Cédulas		                    Favorite	192.117	4
+1019		Conversão de Tempo		        Favorite	200.117	1
+1020		Idade em Dias		            Favorite	197.377	2
+1021		Notas e Moedas		            Favorite	128.134	6
+1035		Teste de Seleção 1		        Favorite	189.179	2
+1036		Fórmula de Bhaskara		        Favorite	166.587	3
+1037		Intervalo		                Favorite	176.735	3
+1038		Lanche		                    Favorite	184.354	1
+1040		Média 3		                    Favorite	130.670	5
+1041		Coordenadas de um Ponto		    Favorite	147.795	3
+1042		Sort Simples		            Favorite	139.132	2
+1043		Triângulo		                Favorite	122.809	2
+1044		Múltiplos		                Favorite	146.002	2
+1045		Tipos de Triângulos		        Favorite	110.108	4
+1046		Tempo de Jogo		            Favorite	113.558	2
+1047		Tempo de Jogo com Minutos		Favorite	84.132	9
+1048		Aumento de Salário		        Favorite	117.285	2
+1049		Animal		                    Favorite	94.909	3
+1050		DDD		                        Favorite	129.938	2
+1051		Imposto de Renda		        Favorite	92.382	2
+1052		Mês		                        Favorite	117.923	2
+1059		Números Pares		            Favorite	141.456	1
+1060		Números Positivos		        Favorite	121.405	1
+1061		Tempo de um Evento		        Favorite	53.571	3
+1064		Positivos e Média		        Favorite	110.331	2
+1065		Pares entre Cinco Números		Favorite	105.791	1
+1066		Pares, Ímpares, Positivos e Negativos		Favorite	104.658	1
+1067		Números Ímpares		            Favorite	115.287	2
+1070		Seis Números Ímpares		    Favorite	98.221	1
+1071		Soma de Impares Consecutivos I	Favorite	102.735	2
+1072		Intervalo 2		                Favorite	95.706	1
+1073		Quadrado de Pares		        Favorite	101.425	1
+1074		Par ou Ímpar		            Favorite	95.482	2
+1075		Resto 2		                    Favorite	89.762	2
+1078		Tabuada		                    Favorite	113.263	1
+1079		Médias Ponderadas		        Favorite	79.985	1
+1080		Maior e Posição		            Favorite	97.772	2
+1094		Experiências		            Favorite	73.028	3
+1095		Sequencia IJ 1		            Favorite	75.537	1
+1096		Sequencia IJ 2		            Favorite	64.175	1
+1097		Sequencia IJ 3		            Favorite	63.141	1
+1098		Sequencia IJ 4		            Favorite	44.863	2
+1099		Soma de Ímpares Consecutivos II	Favorite	62.903	1
+1101		Sequência de Números e Soma		Favorite	69.898	4
+1113		Crescente e Decrescente		    Favorite	78.154	1
+1114		Senha Fixa		                Favorite	92.370	1
+1115		Quadrante		                Favorite	69.993	1
+1116		Dividindo X por Y		        Favorite	62.701	1
+1117		Validação de Nota		        Favorite	66.025	1
+1118		Várias Notas Com Validação		Favorite	48.487	3
+1131		Grenais		                    Favorite	46.782	1
+1132		Múltiplos de 13		            Favorite	62.436	1
+1133		Resto da Divisão		        Favorite	60.909	3
+1134		Tipo de Combustível		        Favorite	67.497	1
+1142		PUM		                        Favorite	62.639	1
+1143		Quadrado e ao Cubo		        Favorite	57.422	1
+1144		Sequência Lógica		        Favorite	47.985	1
+1145		Sequência Lógica 2		        Favorite	49.144	2
+1146		Sequências Crescentes		    Favorite	51.008	3
+1149		Somando Inteiros Consecutivos	Favorite	35.373	1
+1150		Ultrapassando Z		            Favorite	36.061	1
+1151		Fibonacci Fácil		            Favorite	66.623	2
+1153		Fatorial Simples		        Favorite	70.388	1
+1154		Idades		                    Favorite	60.888	1
+1155		Sequência S		                Favorite	41.780	2
+1156		Sequência S II		            Favorite	36.940	2
+1157		Divisores I		                Favorite	52.422	1
+1158		Soma de Ímpares Consecutivos IIIFavorite	38.349	1
+1159		Soma de Pares Consecutivos		Favorite	41.179	2
+1160		Crescimento Populacional		Favorite	37.852	5
+1164		Número Perfeito		            Favorite	51.842	2
+1165		Número Primo		            Favorite	58.010	2
+1172		Substituição em Vetor I		    Favorite	93.900	1
+1173		Preenchimento de Vetor I		Favorite	83.423	1
+1174		Seleçao em Vetor I		        Favorite	75.220	3
+1175		Troca em Vetor I		        Favorite	77.460	2
+1176		Fibonacci em Vetor		        Favorite	58.016	3
+1177		Preenchimento de Vetor II		Favorite	62.795	1
+1178		Preenchimento de Vetor III		Favorite	55.308	2
+1179		Preenchimento de Vetor IV		Favorite	49.525	2
+1180		Menor e Posição		            Favorite	75.857	3
+1181		Linha na Matriz		            Favorite	63.158	3
+1182		Coluna na Matriz		        Favorite	54.709	2
+1183		Acima da Diagonal Principal		Favorite	52.419	4
+1184		Abaixo da Diagonal Principal	Favorite	38.985	2
+1185		Acima da Diagonal Secundária	Favorite	36.263	2
+1186		Abaixo da Diagonal Secundária	Favorite	35.684	3
+1187		Área Superior		            Favorite	37.167	3
+1188		Área Inferior		            Favorite	29.658	1
+1189		Área Esquerda		            Favorite	28.013	2
+1190		Área Direita		            Favorite	31.231	1
+1435		Matriz Quadrada I		        Favorite	25.094	2
+1478		Matriz Quadrada II		        Favorite	19.541	1
+1534		Matriz 123		                Favorite	21.174	1
+1541		Construindo Casas		        Favorite	13.907	2
+1557		Matriz Quadrada III		        Favorite	16.744	1
+1564		Vai Ter Copa?		            Favorite	24.574	2
+1589		Bob Conduite		            Favorite	24.480	1
+1759		Ho Ho Ho		                Favorite	28.738	1
+1789		A Corrida de Lesmas		        Favorite	18.678	3
+1827		Matriz Quadrada IV		        Favorite	11.274	1
+1828		Bazinga!		                Favorite	16.181	4
+1837		Prefácio		                Favorite	11.907	7
+1847		Bem-vindos e Bem-vindas ao Inverno!	Favorite	15.490	4
+1848		Corvo Contador		                Favorite	11.877	3
+1858		A Resposta de Theon		            Favorite	15.476	2
+1864		Nossos Dias Nunca Voltarão		    Favorite	14.537	2
+1865		Mjölnir		                        Favorite	17.559	1
+1866		Conta		                        Favorite	19.315	1
+1914		De Quem é a Vez?		            Favorite	12.159	2
+1924		Vitória e a Indecisão		        Favorite	13.197	1
+1929		Triângulo		                    Favorite	13.953	3
+1930		Tomadas		                        Favorite	22.481	1
+1933		Tri-du		                        Favorite	17.851	1
+1957		Converter para Hexadecimal		    Favorite	13.151	1
+1958		Notação Científica		            Favorite	6.695	4
+1959		Polígonos Regulares Simples		    Favorite	12.177	3
+1960		Numeração Romana para Números de Página		Favorite	9.131	2
+1961		Pula Sapo		                    Favorite	14.355	2
+1962		Há Muito, Muito Tempo Atrás		    Favorite	10.943	2
+1963		O Filme		                        Favorite	13.876	2
+1973		Jornada nas Estrelas		        Favorite	7.132	7
+1983		O Escolhido		                    Favorite	11.471	2
+1984		O Enigma do Pronalândia		        Favorite	11.767	2
+1985		MacPRONALTS		                    Favorite	15.689	1
+2003		Domingo de Manhã		            Favorite	8.267	2
+2006		Identificando o Chá		            Favorite	23.707	1
+2028		Sequência de Sequência		        Favorite	7.766	5
+2029		Reservatório de Mel		            Favorite	8.339	1
+2031		Pedra, Papel, Ataque Aéreo		    Favorite	8.675	2
+2057		Fuso Horário		                Favorite	16.712	2
+2059		Ímpar, Par ou Roubo		            Favorite	12.563	2
+2060		Desafio de Bino		                Favorite	19.154	1
+2061		As Abas de Péricles		            Favorite	9.873	1
+2126		Procurando Subsequências		    Favorite	4.313	2
+2139		Natal de Pedrinho		            Favorite	5.752	2
+2140		Duas Notas		                    Favorite	8.613	2
+2143		A Volta do Radar		            Favorite	4.547	3
+2146		Senha		                        Favorite	11.772	1
+2147		Galopeira		                    Favorite	9.707	2
+2152		Pepe, Já Tirei a Vela!		        Favorite	7.153	1
+2159		Número Aproximado de Primos		    Favorite	5.290	1
+2160		Nome no Formulário		            Favorite	10.646	4
+2161		Raiz Quadrada de 10		            Favorite	6.784	1
+2162		Picos e Vales		                Favorite	8.662	4
+2163		O Despertar da Força		        Favorite	7.687	4
+2164		Fibonacci Rápido		            Favorite	8.876	2
+2165		Tuitando		                    Favorite	12.061	4
+2166		Raiz Quadrada de 2		            Favorite	6.016	1
+2167		Falha do Motor		                Favorite	12.037	2
+2168		Crepúsculo em Portland		        Favorite	4.729	1
+2172		Evento		                        Favorite	9.636	1
+2176		Paridade		                    Favorite	8.253	1
+2203		Tempestade de Corvos		        Favorite	3.561	4
+2221		Batalha de Pomekons		            Favorite	8.409	2
+2234		Cachorros-Quentes		            Favorite	14.014	1
+2235		Andando no Tempo		            Favorite	12.209	1
+2310		Voleibol		                    Favorite	11.928	2
+2311		Saltos Ornamentais		            Favorite	8.269	2
+2313		Qual Triângulo		                Favorite	11.666	3
+2334		Patinhos		                    Favorite	6.241	3
+2344		Notas da Prova		                Favorite	14.452	1
+2483		Feliz Nataaal!		                Favorite	12.352	1
+2486		C Mais ou Menos?		            Favorite	4.855	3
+2493		Jogo do Operador		            Favorite	2.175	6
+2502		Decifrando a Carta Criptografada	Favorite	2.280	5
+2510		Batmain		                        Favorite	5.114	2
+2520		O Último Analógimôn		            Favorite	3.523	5
+2523		A Mensagem de Will		            Favorite	6.179	2
+2533		Estágio		                        Favorite	3.231	3
+2534		Exame Geral		                    Favorite	6.526	2
+2540		Impeachment do Líder		        Favorite	5.020	4
+2542		Iu-Di-Oh!		                    Favorite	4.416	4
+2543		Jogatina UFPR		                Favorite	3.067	1
+2544		Kage Bunshin no Jutsu		        Favorite	4.368	4
+2547		Montanha-Russa		                Favorite	4.082	2
+2551		Novo Recorde		                Favorite	2.813	3
+2552		PãodeQuejoSweeper		            Favorite	5.343	2
+2554		Pizza Antes de BH		            Favorite	2.331	3
+2581		I am Toorg!		                    Favorite	6.800	1
+2582		System of a Download		        Favorite	6.483	2
+2626		Turma do JB6		                Favorite	1.601	4
+2630		Escala de Cinza		                Favorite	3.515	2
+2632		Magic and Sword		                Favorite	1.355	8
+2635		Navegador Web		                Favorite	1.240	4
+2653		Dijkstra		                    Favorite	4.545	2
+2663		Fase		                        Favorite	4.160	3
+2670		Máquina de Café		                Favorite	10.648	3
+2685		A Mudança		                    Favorite	2.523	2
+2686		A Mudança Continua!!		        Favorite	1.235	5
+2702		Escolha Difícil		                Favorite	10.546	1
+2708		Turistas no Parque Huacachina		Favorite	3.271	1
+2709		As Moedas de Robbie		            Favorite	2.180	9
+2712		Rodízio Veicular		            Favorite	3.296	4
+2715		Dividindo os Trabalhos I		    Favorite	1.160	7
+2717		Tempo do Duende		                Favorite	7.967	1
+2718		Luzes de Natal		                Favorite	1.909	5
+2721		Indecisão das Renas		            Favorite	3.755	3
+2724		Ajude Patatatitu		            Favorite	690	4
+2727		Código Secreto		                Favorite	2.730	3
+2747		Saída 1		                        Favorite	15.239	1
+2748		Saída 2		                        Favorite	13.011	1
+2749		Saída 3		                        Favorite	10.182	2
+2750		Saída 4		                        Favorite	8.646	1
+2752		Saída 6		                        Favorite	6.491	1
+2753		Saída 7		                        Favorite	10.445	1
+2754		Saída 8		                        Favorite	8.083	1
+2755		Saída 9		                        Favorite	9.696	2
+2756		Saída 10		                    Favorite	11.441	1
+2757		Entrada e Saída de Números Inteiros	Favorite	7.178	3
+2758		Entrada e Saída de Números Reais	Favorite	6.299	4
+2759		Entrada e Saída de Carácter		    Favorite	8.971	2
+2760		Entrada e Saída de String		    Favorite	6.165	5
+2761		Entrada e Saída de Vários Tipos		Favorite	2.120	6
+2762		Entrada e Saída 6		            Favorite	6.608	2
+2763		Entrada e Saída CPF		            Favorite	9.982	1
+2764		Entrada e Saída de Data		        Favorite	11.383	4
+2765		Entrada e Saída com Virgula		    Favorite	4.561	4
+2766		Entrada e Saída Lendo e Pulando Nomes		Favorite	8.468	3
+2769		Linha de Montagem		            Favorite	909	4
+2770		Tamanho da Placa		            Favorite	2.296	7
+2774		Precisão do Sensor		            Favorite	1.173	4
+2775		Preparando a Produção		        Favorite	565	4
+2779		Álbum da Copa		                Favorite	3.746	1
+2780		Basquete de Robôs		            Favorite	10.608	1
+2782		Escadinha		                    Favorite	2.138	3
+2783		Figurinhas da Copa		            Favorite	2.787	2
+2785		Pirâmide		                    Favorite	750	4
+2786		Piso da Escola		                Favorite	5.543	1
+2787		Xadrez		                        Favorite	13.619	1
+2791		Feijão		                        Favorite	7.470	1
+2802		Dividindo Círculos		            Favorite	1.935	5
+
