@@ -3,11 +3,11 @@ Nome		Favorito	                    Resolvidos	Nível
 1000	    Hello World!		            Favorite	362.440	5               FEITO
 1001		Extremamente Básico		        Favorite	583.716	4               FEITO
 1002		Área do Círculo		            Favorite	429.160	4               FEITO
-1003		Soma Simples		            Favorite	413.442	1
-1004		Produto Simples		            Favorite	389.428	1
-1005		Média 1		                    Favorite	349.964	2
-1006		Média 2		                    Favorite	319.157	1
-1007		Diferença		                Favorite	334.093	1
+1003		Soma Simples		            Favorite	413.442	1               FEITO
+1004		Produto Simples		            Favorite	389.428	1               FEITO
+1005		Média 1		                    Favorite	349.964	2               FEITO
+1006		Média 2		                    Favorite	319.157	1               FEITO
+1007		Diferença		                Favorite	334.093	1               FEITO
 1008		Salário		                    Favorite	311.949	2
 1009		Salário com Bônus		        Favorite	282.526	2
 1010		Cálculo Simples		            Favorite	259.523	3
