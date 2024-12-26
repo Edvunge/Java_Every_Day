@@ -9,7 +9,7 @@ public class Exe1008_Salario {
     A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
     */
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        /*Scanner input = new Scanner(System.in);
 
         System.out.println("Digite o numero do funcionario: ");
         int numerFuncionario = input.nextInt();
@@ -23,5 +23,13 @@ public class Exe1008_Salario {
         // salario = horastrab*VALORpORHORAS
         double salario = (valorPorHoraTrabalhados * numerHorasTrabalhadas);
         System.out.println("salario: "+salario);
+        */
+
+        int[][][] threeDimArr = new int[2][][];
+        threeDimArr[0] = new int[5][2];
+        threeDimArr[1] = new int[1][1];
+
+        System.out.println(threeDimArr[0]);
+        //}
     }
 }
