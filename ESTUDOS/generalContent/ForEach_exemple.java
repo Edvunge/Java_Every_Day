@@ -1,8 +1,4 @@
-package ESTUDOS;
-
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.List;
+package ESTUDOS.generalContent;
 
 public class ForEach_exemple {
     public static void main(String[] args) {

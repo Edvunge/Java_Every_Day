@@ -1,4 +1,4 @@
-package ESTUDOS;
+package ESTUDOS.generalContent;
 
 public class For_each {
     public static void main(String[] args) {

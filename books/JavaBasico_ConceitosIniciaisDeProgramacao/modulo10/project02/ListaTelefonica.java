@@ -24,21 +24,21 @@ public class ListaTelefonica {
         System.out.println("Lista das linguagens: " + lista);
 
         // Acessando um elemento pelo indice
-        System.out.println("Primeira linguagem: " + lista.get(0));
+//        System.out.println("Primeira linguagem: " + lista.get(0));
 
         // Removendo um elemento pelo indice
-        lista.remove(1); // remove "Python"
-        System.out.println("Lista apos remoção: " + lista);
+//        lista.remove(1); // remove "Python"
+//        System.out.println("Lista apos remoção: " + lista);
 
         // Verificando o tamanho da lista
-        System.out.println("Tamanho da lista: " + lista.size());
+//        System.out.println("Tamanho da lista: " + lista.size());
 
         // Verificando se a lista contem um elemento
-        System.out.println("Contem 'C++'? " + lista.contains("C++"));
+//        System.out.println("Contem 'C++'? " + lista.contains("C++"));
 
         // iterando pela lista
-        for (String linguagem : lista) {
-            System.out.println(linguagem);
-        }
+//        for (String linguagem : lista) {
+//            System.out.println(linguagem);
+//        }
     }
 }

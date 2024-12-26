@@ -1,4 +1,4 @@
-package ESTUDOS;
+package ESTUDOS.generalContent;
 
 import java.util.Scanner;
 
