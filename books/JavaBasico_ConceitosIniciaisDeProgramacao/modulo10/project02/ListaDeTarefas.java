@@ -13,6 +13,7 @@ public class ListaDeTarefas {
         Aprendizado: Manipulação de listas (ArrayList), manipulação de strings e estrutura de dados.
 
         Desafios: Implementar persistência de dados usando arquivos para salvar a lista de tarefas.
+
         */
         Scanner input = new Scanner(System.in);
         ArrayList<String> taskList = new ArrayList<>();
