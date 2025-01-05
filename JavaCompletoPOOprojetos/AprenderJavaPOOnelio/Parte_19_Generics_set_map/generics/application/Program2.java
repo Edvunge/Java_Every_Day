@@ -1,6 +1,6 @@
-package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_19_Generics_set_map.application;
+package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_19_Generics_set_map.generics.application;
 
-import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_19_Generics_set_map.services.CalculationService;
+import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_19_Generics_set_map.generics.services.CalculationService;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_19_Generics_set_map.services;
+package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_19_Generics_set_map.generics.services;
 
 import java.util.List;
 
