@@ -13,5 +13,23 @@ public class UsingUnderscore {
         System.out.println("binary " + binary);
         System.out.println("octal " + octal);
         System.out.println(hexBytes + " hexBytes");
+
+/*
+Para entrar na área de UX/UI e Web Design, aqui estão algumas ideias para começar:
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
     }
 }
