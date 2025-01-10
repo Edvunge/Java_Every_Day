@@ -14,7 +14,5 @@ public class ImplicitCasting {
         System.out.println("floatVar " + floatVar);
         System.out.println("longVar: " + longVar);
         System.out.println("intVar: " + intVar);
-        System.out.println("shortVar: " + shortVar);
-        System.out.println("byteVar: " + byteVar);
     }
 }
