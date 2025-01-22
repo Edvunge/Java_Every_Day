@@ -5,7 +5,7 @@ import MaratonaJavaDEVdojo.chapter03_OOp.introducaoClasses.classes.Professor;
 public class ProfessorTest {
     public static void main(String[] args) {
         Professor professor = new Professor();
-        professor.nome = "edvaldo vunge";
+        professor.nome = "edvaldo Da costa V.";
         professor.cpf = 123_233_4443;
         professor.matricula = "A00_2024";
         professor.rg = 22111;
