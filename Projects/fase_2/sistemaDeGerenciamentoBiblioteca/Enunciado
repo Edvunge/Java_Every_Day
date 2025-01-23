@@ -1,0 +1,35 @@
+Exercício: Sistema de Gerenciamento de Biblioteca
+Descrição: Implemente um sistema simples de gerenciamento de biblioteca usando os conceitos de POO.
+
+
+Classes e Objetos:
+Crie as classes principais:
+Livro: Representa um livro com atributos como título, autor, ISBN, e disponibilidade.
+Usuario: Representa um usuário da biblioteca com atributos como nome, ID, e uma lista de livros emprestados.
+
+Encapsulamento:
+Use private para proteger os atributos das classes e forneça métodos getters e setters para acessá-los.
+
+Herança: DOING
+Crie duas subclasses de Usuario:
+Aluno: Pode pegar no máximo 3 livros emprestados.
+Professor: Pode pegar no máximo 5 livros emprestados.
+
+Polimorfismo:
+Sobrescreva métodos, se necessário, para as subclasses de Usuario.
+
+Relacionamentos:
+Estabeleça o relacionamento entre Usuario e Livro. Um usuário pode emprestar vários livros.
+
+Funcionalidades:
+Método para adicionar um livro à biblioteca.
+Método para emprestar um livro para um usuário (verifique se o livro está disponível e se o usuário pode emprestar mais livros).
+Método para devolver um livro.
+
+Exemplo de Expansão:
+Depois de implementar os requisitos básicos, você pode adicionar funcionalidades extras, como:
+
+Criar uma classe Biblioteca para gerenciar os usuários e livros.
+Registrar a data de empréstimo e devolução.
+Implementar a verificação de prazo para devolução.
+Criar um sistema de multa para livros atrasados.
