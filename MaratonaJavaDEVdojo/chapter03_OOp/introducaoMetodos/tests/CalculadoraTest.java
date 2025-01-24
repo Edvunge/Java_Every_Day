@@ -8,6 +8,6 @@ public class CalculadoraTest {
         calculadora.somaDoisNumeros();
         calculadora.subtraiDoisNumeros();
         calculadora.multiplicaDoisNumeros(6, 2);
-        System.out.println(calculadora.divideDoisNumeros(22.3, 21.2));
+        calculadora.divideDoisNumeros(20, 5);
     }
 }
