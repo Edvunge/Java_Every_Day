@@ -1,6 +1,6 @@
 package UdemyCourses.javaComOOP_MatheusBattisti.section04_condicionais;
 
-public class Exercicio06 {
+public class Exercicio06_classificacaoDeLetra {
     /*
     Exercicio 6: Classificação de Letra
 

@@ -1,6 +1,6 @@
 package UdemyCourses.javaComOOP_MatheusBattisti.section04_condicionais;
 
-public class Exercicio02 {
+public class Exercicio02_validacaoDeLogin {
     /*
     Exercicio 2: Validação de login
 

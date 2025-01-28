@@ -1,6 +1,6 @@
 package UdemyCourses.javaComOOP_MatheusBattisti.section04_condicionais;
 
-public class Exercicio05 {
+public class Exercicio05_verificacaoDeIntervaloComANO {
     /*
     Exercicio 5: Verificação de Intervalo com ANO
 

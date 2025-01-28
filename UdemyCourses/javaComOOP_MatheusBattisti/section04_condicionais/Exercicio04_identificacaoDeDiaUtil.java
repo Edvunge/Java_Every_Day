@@ -1,6 +1,6 @@
 package UdemyCourses.javaComOOP_MatheusBattisti.section04_condicionais;
 
-public class Exercicio04 {
+public class Exercicio04_identificacaoDeDiaUtil {
     /*
     Exercicio 4: Identificação de Dia Útil
 

@@ -1,6 +1,6 @@
 package UdemyCourses.javaComOOP_MatheusBattisti.section04_condicionais;
 
-public class Exercicio01 {
+public class Exercicio01_verificacaoDeCategoriaDePreco {
     /*
     Exercicio 1: Verificacao de categoria de preço
 

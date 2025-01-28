@@ -1,6 +1,6 @@
 package UdemyCourses.javaComOOP_MatheusBattisti.section04_condicionais;
 
-public class Exercicio03 {
+public class Exercicio03_identificacaoDeParidadeComStrings {
     /*
     Exercicio 3: Identificação de Paridade com Strings
 
