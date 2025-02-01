@@ -40,7 +40,7 @@ vou resolver cada parte destes exercicios aqui composto, tentando detalhar o max
 
 
 
-- [ ] Introdução a classes, objetos, 3 métodos e strings
+- [x] Introdução a classes, objetos, 3 métodos e strings
 
 
 - [ ] Instruções de controle: parte 1; 4 operadores de atribuição ++ e --
