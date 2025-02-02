@@ -39,7 +39,7 @@ public class Invoice {
     }
 
     void getInvoiceAmount() {
-        
+
     }
 
     /*
