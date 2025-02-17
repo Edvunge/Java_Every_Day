@@ -1,0 +1,18 @@
+package books.Thinking_in_java.chapter7_Initialization_and_Cleanup.method_overloading;
+
+import static java.io.IO.print;
+
+public class OverloadingOrder {
+    static void f(String s, int i) {
+        print("String: " + s + ", int: " + i);
+    }
+
+    static void f(int i, String s) {
+        print("int: " + i + ", String: "+ s);
+    }
+
+    public static void main(String[] args) {
+        f("String first", 11);
+        f(99, "Int first");
+    }
+}
