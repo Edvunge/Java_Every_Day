@@ -1,4 +1,4 @@
-package books.Thinking_in_java.chapter7_Initialization_and_Cleanup;
+package books.Thinking_in_java.chapter7_Cleanup_and_initialization.initialization;
 
 class Rock {
     Rock() {
