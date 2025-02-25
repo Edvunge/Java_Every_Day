@@ -2,7 +2,7 @@ package books.JavaNotesForProfessionals.chapter20_BigInteger.section20_2_BigInte
 
 import java.math.BigInteger;
 
-public class multiplication {
+public class Multiplication {
     public static void main(String[] args) {
         BigInteger value1 = new BigInteger("10");
         BigInteger value2 = new BigInteger("5");
