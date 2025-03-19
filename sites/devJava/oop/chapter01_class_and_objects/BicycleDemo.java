@@ -1,8 +1,8 @@
-package sites.devJava.oop.chapter01_class;
+package sites.devJava.oop.chapter01_class_and_objects;
 
 public class BicycleDemo {
     public static void main(String[] args) {
-        Bicycle bike1 = new Bicycle();
+        /*Bicycle bike1 = new Bicycle();
         Bicycle bike2 = new Bicycle();
 
         bike1.changeCadence(50);
@@ -16,6 +16,6 @@ public class BicycleDemo {
         bike2.changeCadence(40);
         bike2.speedUp(10);
         bike2.changeGear(3);
-        bike2.printStates();
+        bike2.printStates();*/
     }
 }

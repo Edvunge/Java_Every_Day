@@ -1,9 +1,9 @@
 package sites.devJava.oop.chapter03_interface;
 
 
-import sites.devJava.oop.chapter01_class.Bicycle;
+import sites.devJava.oop.chapter01_class_and_objects.Bicycle;
 
-public class ACMEBicycle extends Bicycle {
+/*public class ACMEBicycle extends Bicycle {
 
     int cadence = 0;
     int speed = 0;
@@ -30,4 +30,4 @@ public class ACMEBicycle extends Bicycle {
                 cadence + " speed:" +
                 speed + " gear:" + gear);
     }
-}
+}*/
