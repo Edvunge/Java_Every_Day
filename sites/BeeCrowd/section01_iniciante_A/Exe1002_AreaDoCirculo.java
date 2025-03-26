@@ -1,4 +1,4 @@
-package sites.BeeCrowd.section01_iniciante;
+package sites.BeeCrowd.section01_iniciante_A;
 
 import java.util.Scanner;
 

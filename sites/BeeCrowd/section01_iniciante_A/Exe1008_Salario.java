@@ -1,6 +1,4 @@
-package sites.BeeCrowd.section01_iniciante;
-
-import java.util.Scanner;
+package sites.BeeCrowd.section01_iniciante_A;
 
 public class Exe1008_Salario {
     /*

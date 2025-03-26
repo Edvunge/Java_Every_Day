@@ -1,6 +1,4 @@
-package sites.BeeCrowd.section01_iniciante;
-
-import JavaProgrammingMasterclass.section_3_FirstSteps.StartingOutExpressions;
+package sites.BeeCrowd.section01_iniciante_A;
 
 import java.util.Scanner;
 
