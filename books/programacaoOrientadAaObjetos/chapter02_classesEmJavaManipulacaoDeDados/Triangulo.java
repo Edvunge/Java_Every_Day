@@ -1,25 +1,23 @@
-package books.Introd_oop_rafaelSantos.part_I_introdOOP.chapter02_criandoClassesJava;
+package books.programacaoOrientadAaObjetos.chapter02_classesEmJavaManipulacaoDeDados;
 
 public class Triangulo {
-
     float lado1;
 
-    boolean eEquilatero() {
+    boolean eEquilatero(){
         boolean igualdade12, resultado;
         igualdade12 = (lado1 == lado2);
         boolean igualdade23;
         igualdade23 = (lado2 == lado3);
 
-        if (igualdade12 && igualdade23) {
+        if (igualdade12 && igualdade23)
             resultado = true;
-        } else {
+        else
             resultado = false;
-        }
-        return resultado;
+        return  resultado;
     }
 
     float calculaPerimetro() {
-        float resultado = lado1 + lado2 + lado3;
+        float resultado = lado1+lado2+lado3;
         return resultado;
     }
 

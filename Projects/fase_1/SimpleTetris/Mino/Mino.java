@@ -8,6 +8,7 @@ public class Mino {
     public Block b[] = new Block[4];
     public Block tempB[] = new Block[4];
     int autoDropCounter = 0;
+
     public void create(Color c) {
         b[0] = new Block(c);
         b[1] = new Block(c);

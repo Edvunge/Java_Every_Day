@@ -1,15 +1,19 @@
-package books.Introd_oop_rafaelSantos.part_I_introdOOP.chapter02_criandoClassesJava;
+package books.programacaoOrientadAaObjetos.chapter02_classesEmJavaManipulacaoDeDados;
 
 public class Data {
-
-    private byte dia,mes;
+    private byte dia;
+    byte mes;
     private short ano;
 
-    public void inicializaData(byte d,byte m, short a) {
-        if (dataEValida(d,m,a)) {
-            dia = d; mes = m; ano = a;
+    public void inicializaData(byte d, byte m, short a) {
+        if (dataEvalida(d, m, a)) {
+            dia = d;
+            mes = m;
+            ano = a;
         } else {
-            dia = 0; mes = 0; ano = 0;
+            dia = 0;
+            mes = 0;
+            ano = 0;
         }
     }
 
@@ -25,7 +29,8 @@ public class Data {
         return ano;
     }
 
-    public boolean dataEValida(byte d, byte m, short a) {
+
+    public boolean dataEvalida(byte d, byte m, short a) {
         if ((d >= 1) &&
                 (d <= 31) &&
                 (m >= 1) &&
@@ -36,19 +41,25 @@ public class Data {
     }
 
     public boolean eIgual(Data outraData) {
-        if ((dia == outraData.dia) &&
-                (mes == outraData.mes) &&
-                (ano == outraData.ano))
+        if ((dia == outraData.dia) && (mes == outraData.mes) && (ano == outraData.ano))
             return true;
         else
             return false;
     }
 
-    public void mostraData(){
+
+    public void mostraData() {
         System.out.println(dia);
         System.out.println("/");
         System.out.println(mes);
         System.out.println("/");
         System.out.println(ano);
+    }
+
+
+    void duplicaData(Data dat) {
+        dat.dia = 12;
+        dat.mes = 3;
+        dat.ano = 199;
     }
 }
