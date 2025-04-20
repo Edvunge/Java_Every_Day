@@ -2,6 +2,7 @@ package JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_18_programacaoFuncion
 
 
 import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_18_programacaoFuncional.entities.Product;
+import JavaCompletoPOOprojetos.AprenderJavaPOOnelio.Parte_18_programacaoFuncional.entities.ProductService;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,14 +19,10 @@ public class Program {
         list.add(new Product("Tablet", 350.50));
         list.add(new Product("HD Case", 80.90));
 
-        double factor = 1.1;
+        ProductService ps = new ProductService();
 
-        Consumer<Product> cons = p -> {
-            p.setPrice(p.getPrice() * factor);
-        };
+        double sum = ps.filteredSum(list, p -> p.getName().charAt(0) == 'M');
 
-        list.forEach(cons);
-
-        list.forEach(System.out::println);
+        System.out.println("Sum = " + String.format("%.2f", sum));
     }
 }
