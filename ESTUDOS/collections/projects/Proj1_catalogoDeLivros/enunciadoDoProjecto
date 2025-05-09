@@ -1,0 +1,47 @@
+
+Exercício prático de nível intermediário que envolve o uso do Collections Framework em Java,
+especialmente com List, Map, Set, e métodos utilitários da classe Collections:
+
+
+
+💡 Exercício: Catálogo de Livros
+
+Crie um programa em Java que gerencia um catálogo de livros. Cada livro possui:
+
+* Título (String)
+* Autor (String)
+* Ano de publicação (int)
+
+O programa deve:
+
+1. Adicionar livros ao catálogo.
+2. Listar todos os livros ordenados por título.
+3. Listar todos os livros agrupados por autor.
+4. Buscar livros por uma parte do título.
+5. Remover um livro pelo título.
+
+
+
+### 🔧 Requisitos Técnicos:
+
+* Use uma **`List`** para armazenar os livros.
+* Crie uma **classe `Livro`** com os atributos adequados e sobrescreva `equals()` e `hashCode()`.
+* Use **`Collections.sort()`** ou `Comparator.comparing()` para ordenar os livros.
+* Use um **`Map<String, List<Livro>>`** para agrupar por autor.
+* Use um **`Set<Livro>`** se quiser evitar livros duplicados (por título + autor).
+
+---
+
+
+
+
+✅ Exemplo de uso esperado:
+
+
+1. Adicionar livro
+2. Listar ordenados por título
+3. Listar agrupados por autor
+4. Buscar livro
+5. Remover livro
+6. Sair
+
