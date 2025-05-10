@@ -1,8 +1,0 @@
-package AulasDoYoutube.broCode.oop.part13_inheritance;
-
-public class Car extends Vehicle{
-    int wheels = 4;
-    int doors = 2;
-
-
-}
