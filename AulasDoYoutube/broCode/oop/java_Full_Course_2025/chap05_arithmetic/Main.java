@@ -18,7 +18,7 @@ public class Main {
 
         int x1 = 1;
 
-        x1 += 1;
+        x1++;
 
         System.out.println(x1);
 
