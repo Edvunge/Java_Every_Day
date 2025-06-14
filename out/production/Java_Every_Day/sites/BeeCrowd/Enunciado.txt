@@ -8,15 +8,15 @@ Nome		Favorito	                    Resolvidos	Nível
 1005		Média 1		                    Favorite	349.964	2               FEITO
 1006		Média 2		                    Favorite	319.157	1               FEITO
 1007		Diferença		                Favorite	334.093	1               FEITO
-1008		Salário		                    Favorite	311.949	2
-1009		Salário com Bônus		        Favorite	282.526	2
-1010		Cálculo Simples		            Favorite	259.523	3
-1011		Esfera		                    Favorite	245.547	2
-1012		Área		                    Favorite	227.798	2
-1013		O Maior		                    Favorite	221.813	3
-1014		Consumo		                    Favorite	231.590	1
-1015		Distância Entre Dois Pontos		Favorite	229.937	1
-1016		Distância		                Favorite	200.418	1
+1008		Salário		                    Favorite	311.949	2               FEITO
+1009		Salário com Bônus		        Favorite	282.526	2               FEITO
+1010		Cálculo Simples		            Favorite	259.523	3               FEITO
+1011		Esfera		                    Favorite	245.547	2               FEITO
+1012		Área		                    Favorite	227.798	2               FEITO
+1013		O Maior		                    Favorite	221.813	3               FEITO
+1014		Consumo		                    Favorite	231.590	1               FEITO
+1015		Distância Entre Dois Pontos		Favorite	229.937	1               FEITO
+1016		Distância		                Favorite	200.418	1 *             FEITO
 1017		Gasto de Combustível		    Favorite	207.106	1
 1018		Cédulas		                    Favorite	192.117	4
 1019		Conversão de Tempo		        Favorite	200.117	1
@@ -85,7 +85,7 @@ Nome		Favorito	                    Resolvidos	Nível
 1155		Sequência S		                Favorite	41.780	2
 1156		Sequência S II		            Favorite	36.940	2
 1157		Divisores I		                Favorite	52.422	1
-1158		Soma de Ímpares Consecutivos IIIFavorite	38.349	1
+1158		Soma de Ímpares Consecutivos III Favorite	38.349	1
 1159		Soma de Pares Consecutivos		Favorite	41.179	2
 1160		Crescimento Populacional		Favorite	37.852	5
 1164		Número Perfeito		            Favorite	51.842	2
