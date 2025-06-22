@@ -13,4 +13,9 @@ public class Biblioteca {
 
         devolverLivro(String titulo)
     */
+    public String adicionarLivro(Livro livro){
+        //livro++;
+        System.out.println("Livros Adicionado... ");
+        return "d";
+    }
 }

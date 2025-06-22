@@ -3,7 +3,6 @@ package ESTUDOS.projects.SistemaDeBiblioteca;
 import static java.lang.System.out;
 
 public class Livro {
-    // Atributos: titulo, autor, anoPublicacao, emprestado (boolean).
     public String titulo;
     public String autor;
     public int anoPublicacao;
@@ -24,13 +23,4 @@ public class Livro {
         return comp;
     }
 
-    /*
-    Métodos:
-
-        emprestar(): define o status como emprestado.
-
-        devolver(): define o status como disponível.
-
-        exibirDetalhes(): imprime os detalhes do livro.
-    */
 }
