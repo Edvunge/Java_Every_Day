@@ -1,7 +1,12 @@
 package books.ProgramacaoEmJavaCursoCompletoPedroCoelho.Parte_I_IntroducaoAoJava;
 
 public class HelloWorld {
+    /**
+     * @param args
+     */
+
     public static void main(String[] args) {
-        System.out.println("Hello world!!");
+        // TODO Auto-generated method stub
+        System.out.println("O meu primeiro programa em Java!");
     }
 }
