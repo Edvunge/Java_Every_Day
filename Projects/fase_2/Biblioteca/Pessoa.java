@@ -2,7 +2,7 @@ package Projects.fase_2.Biblioteca;
 
 import java.util.Date;
 
-public class Pessoa {
+public abstract class Pessoa {
     protected String nome;
     protected String cpf;
     protected String email;
